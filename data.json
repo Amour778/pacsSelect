@@ -1,0 +1,9097 @@
+[{
+		"id": "modality0",
+		"isParent": true,
+		"name": "CT",
+		"open": true,
+		"pid": "0",
+		"type": "modality"
+	},
+	{
+		"id": "part00",
+		"isParent": true,
+		"name": "头部",
+		"open": false,
+		"pid": "modality0",
+		"type": "part"
+	},
+	{
+		"id": "660119180504111041lt",
+		"isParent": false,
+		"name": "头颅CT平扫未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180515171315lt",
+		"isParent": false,
+		"name": "副鼻窦CT平扫未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504115702lt",
+		"isParent": false,
+		"name": "目前颅内未见外伤性病变",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132138lt",
+		"isParent": false,
+		"name": "双侧眼部未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132401lt",
+		"isParent": false,
+		"name": "两侧中耳乳突及内听道CT平扫未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132535lt",
+		"isParent": false,
+		"name": "鼻咽部未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132645lt",
+		"isParent": false,
+		"name": "喉部CT未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132724lt",
+		"isParent": false,
+		"name": "双侧中耳乳突CT未见异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133103lt",
+		"isParent": false,
+		"name": "甲状腺CT扫描未见明显异常",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180515170936lt",
+		"isParent": false,
+		"name": "脑内低密度灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660118180508144244lt",
+		"isParent": false,
+		"name": "脑腔隙灶；脑白质变性",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504113633lt",
+		"isParent": false,
+		"name": "脑腔隙灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504113437lt",
+		"isParent": false,
+		"name": "脑缺血灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504114310lt",
+		"isParent": false,
+		"name": "脑软化灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504165111lt",
+		"isParent": false,
+		"name": "{脑小腔隙灶|脑缺血灶|腔隙性脑梗塞|脑白质疏松}",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180515170807lt",
+		"isParent": false,
+		"name": "脑梗塞",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180515171056lt",
+		"isParent": false,
+		"name": "脑小梗塞灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504114458lt",
+		"isParent": false,
+		"name": "老年性脑改变",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504114533lt",
+		"isParent": false,
+		"name": "脑白质变性",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504115523lt",
+		"isParent": false,
+		"name": "脑萎缩，脑白质变性",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504131635lt",
+		"isParent": false,
+		"name": "副鼻窦炎",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504131920lt",
+		"isParent": false,
+		"name": "副鼻窦慢性炎症，鼻甲息肉样变",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132003lt",
+		"isParent": false,
+		"name": "副鼻窦粘膜下囊肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504165427lt",
+		"isParent": false,
+		"name": "附见副鼻窦炎",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504165400lt",
+		"isParent": false,
+		"name": "附见副鼻窦黏膜下囊肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180516130424lt",
+		"isParent": false,
+		"name": "附见甲状腺结节",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504114932lt",
+		"isParent": false,
+		"name": "脑膜瘤",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504115043lt",
+		"isParent": false,
+		"name": "占位性病变",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504115130lt",
+		"isParent": false,
+		"name": "颅内多发钙化灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504115419lt",
+		"isParent": false,
+		"name": "脑积水",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180517143243lt",
+		"isParent": false,
+		"name": "脉络膜裂囊肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180517143545lt",
+		"isParent": false,
+		"name": "脑内{囊性灶|小囊性灶}",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180517144227lt",
+		"isParent": false,
+		"name": "血管周围间隙{扩大|稍扩大}",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504114639lt",
+		"isParent": false,
+		"name": "蛛网膜囊肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504115930lt",
+		"isParent": false,
+		"name": "颅内出血，部位见上述描述",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504120314lt",
+		"isParent": false,
+		"name": "蛛网膜下腔出血",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504120419lt",
+		"isParent": false,
+		"name": "硬膜下血肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504123202lt",
+		"isParent": false,
+		"name": "硬膜下积液",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504130851lt",
+		"isParent": false,
+		"name": "透明隔间腔形成",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660002180517121407lt",
+		"isParent": false,
+		"name": "空泡蝶鞍",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504130950lt",
+		"isParent": false,
+		"name": "部分空泡蝶鞍",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504131019lt",
+		"isParent": false,
+		"name": "大枕大池",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504131256lt",
+		"isParent": false,
+		"name": "颅骨骨瘤",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504131454lt",
+		"isParent": false,
+		"name": "头皮下肿物",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132327lt",
+		"isParent": false,
+		"name": "眼球后占位病变",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132606lt",
+		"isParent": false,
+		"name": "鼻咽部占位伴颈部淋巴结肿大",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132812lt",
+		"isParent": false,
+		"name": "慢性中耳乳突炎",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132859lt",
+		"isParent": false,
+		"name": "中耳乳突炎并胆脂瘤",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504132955lt",
+		"isParent": false,
+		"name": "附见颈动脉钙化",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133221lt",
+		"isParent": false,
+		"name": "双侧甲状腺改变考虑结节性甲状腺肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133257lt",
+		"isParent": false,
+		"name": "甲状腺增大",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133418lt",
+		"isParent": false,
+		"name": "甲状腺结节影，考虑为甲状腺腺瘤",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133516lt",
+		"isParent": false,
+		"name": "甲状腺{占位性病变|钙化灶}",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133602lt",
+		"isParent": false,
+		"name": "弥漫性甲状腺肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504133716lt",
+		"isParent": false,
+		"name": "甲状腺低密度灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504164548lt",
+		"isParent": false,
+		"name": "中耳乳突炎，{伴|不伴}听小骨破坏",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504164727lt",
+		"isParent": false,
+		"name": "颅骨凹陷性骨折，皮下血肿，目前脑实质未见外伤性病变",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504164756lt",
+		"isParent": false,
+		"name": "脑内血肿及脑挫裂伤；蛛网膜下腔出血；头皮血肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162342lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001180525185439lt",
+		"isParent": false,
+		"name": "{头皮血肿|脑挫裂伤|脑内血肿|脑出血|硬膜外血肿}",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001190517170923lt",
+		"isParent": false,
+		"name": "血管畸形",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001190527155902lt",
+		"isParent": false,
+		"name": "脂肪瘤",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001190606162407lt",
+		"isParent": false,
+		"name": "脑梗死",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001190612131603lt",
+		"isParent": false,
+		"name": "脑萎缩",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001190625110104lt",
+		"isParent": false,
+		"name": "透明隔囊肿",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "000001191024104912lt",
+		"isParent": false,
+		"name": "钙化灶",
+		"open": false,
+		"pid": "part00",
+		"type": "template"
+	},
+	{
+		"id": "part01",
+		"isParent": true,
+		"name": "胸部",
+		"open": false,
+		"pid": "modality0",
+		"type": "part"
+	},
+	{
+		"id": "000001230627170219lt",
+		"isParent": false,
+		"name": "详见纸质报告",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504134147lt",
+		"isParent": false,
+		"name": "胸部CT平扫未见明显异常",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504134224lt",
+		"isParent": false,
+		"name": "肺纤维灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504164449lt",
+		"isParent": false,
+		"name": "肺结节影",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140157lt",
+		"isParent": false,
+		"name": "肺部炎症",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141950lt",
+		"isParent": false,
+		"name": "肺炎性病变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142040lt",
+		"isParent": false,
+		"name": "肺慢性炎症",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140123lt",
+		"isParent": false,
+		"name": "肺占位",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142317lt",
+		"isParent": false,
+		"name": "{纤维条索影|钙化灶}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142444lt",
+		"isParent": false,
+		"name": "{肺间质增生性改变|肺间质纤维化}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504163322lt",
+		"isParent": false,
+		"name": "慢性胸膜炎",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660002180516105915lt",
+		"isParent": false,
+		"name": "胸膜下结节",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140244lt",
+		"isParent": false,
+		"name": "肺磨玻璃结节灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140328lt",
+		"isParent": false,
+		"name": "陈旧性肺结核",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140403lt",
+		"isParent": false,
+		"name": "肺结核可能大，建议专科检查",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660002180516111340lt",
+		"isParent": false,
+		"name": "{肺结核|空洞性肺结核}可能大",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141152lt",
+		"isParent": false,
+		"name": "附见食道裂孔疝",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140503lt",
+		"isParent": false,
+		"name": "{慢性支气管炎改变、肺气肿|小泡性肺气肿、部分肺大泡形成}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140535lt",
+		"isParent": false,
+		"name": "局限性肺气肿",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140645lt",
+		"isParent": false,
+		"name": "肺大泡",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140710lt",
+		"isParent": false,
+		"name": "支气管扩张",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140801lt",
+		"isParent": false,
+		"name": "周围型肺癌",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140850lt",
+		"isParent": false,
+		"name": "中央型肺癌",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504140933lt",
+		"isParent": false,
+		"name": "胸膜肥厚、粘连、钙化",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141022lt",
+		"isParent": false,
+		"name": "肺尖奇叶形成",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141111lt",
+		"isParent": false,
+		"name": "升主动脉增宽",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141313lt",
+		"isParent": false,
+		"name": "纵隔结节",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141359lt",
+		"isParent": false,
+		"name": "纵隔占位",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141459lt",
+		"isParent": false,
+		"name": "包裹性积液",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141521lt",
+		"isParent": false,
+		"name": "附见隔疝",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141554lt",
+		"isParent": false,
+		"name": "纵隔淋巴结钙化",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141652lt",
+		"isParent": false,
+		"name": "肺部金属异物影",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141724lt",
+		"isParent": false,
+		"name": "胸腔积液",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141815lt",
+		"isParent": false,
+		"name": "液气胸",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504141857lt",
+		"isParent": false,
+		"name": "气胸",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660002180516162311lt",
+		"isParent": false,
+		"name": "心脏增大",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142115lt",
+		"isParent": false,
+		"name": "{慢性支气管炎|肺气肿|肺动脉高压}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142205lt",
+		"isParent": false,
+		"name": "肺不张",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142443lt",
+		"isParent": false,
+		"name": "尘肺",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142847lt",
+		"isParent": false,
+		"name": "尘肺可能，建议专科检查",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660002180516131608lt",
+		"isParent": false,
+		"name": "肺水肿",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504142710lt",
+		"isParent": false,
+		"name": "淋巴结肿大",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143018lt",
+		"isParent": false,
+		"name": "乳腺术后改变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143102lt",
+		"isParent": false,
+		"name": "慢性支气管炎",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504134839lt",
+		"isParent": false,
+		"name": "{主动脉|冠状动脉}部分管壁钙化",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143140lt",
+		"isParent": false,
+		"name": "双乳整形术后改变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143240lt",
+		"isParent": false,
+		"name": "胸内心脏起搏器",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143428lt",
+		"isParent": false,
+		"name": "{主动脉|冠状动脉}支架置入术后改变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143607lt",
+		"isParent": false,
+		"name": "{心脏|胸部}术后改变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143644lt",
+		"isParent": false,
+		"name": "陈旧性肋骨骨折",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143738lt",
+		"isParent": false,
+		"name": "阻塞性肺不张",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143840lt",
+		"isParent": false,
+		"name": "肺奇叶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504143922lt",
+		"isParent": false,
+		"name": "肺肿瘤术后改变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504144245lt",
+		"isParent": false,
+		"name": "肺叶切除术后改变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504144409lt",
+		"isParent": false,
+		"name": "附见气管憩室",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504144435lt",
+		"isParent": false,
+		"name": "附见食管憩室",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504144538lt",
+		"isParent": false,
+		"name": "附见肝囊肿",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162306lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162637lt",
+		"isParent": false,
+		"name": "附见脂肪肝",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162806lt",
+		"isParent": false,
+		"name": "附见甲状腺低密度影",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162842lt",
+		"isParent": false,
+		"name": "附见肾上腺区结节灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162925lt",
+		"isParent": false,
+		"name": "肺部感染性病变，特异性感染（TB）不排除，建议专科检查",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504163003lt",
+		"isParent": false,
+		"name": "继发性肺结核可能--部分纤维增殖、硬结、钙化、并空洞形成，建议专科检查",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504163404lt",
+		"isParent": false,
+		"name": "结核性空洞形成，并{周围纤维条索|钙化|双肺散在增殖灶|伴纵膈肺门多发淋巴结肿大}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504163507lt",
+		"isParent": false,
+		"name": "支气管扩张，伴感染",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504134334lt",
+		"isParent": false,
+		"name": "肺纤维灶；小结节灶；主动脉、冠状动脉部分管壁钙化",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504163801lt",
+		"isParent": false,
+		"name": "慢性支气管炎，{肺气肿|肺大泡}继发双肺感染",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660119180504171524lt",
+		"isParent": false,
+		"name": "慢性支气管炎，{肺气肿|纤维灶|胸膜增厚}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660118180508150030lt",
+		"isParent": false,
+		"name": "肺部炎症后遗灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660002180516162220lt",
+		"isParent": false,
+		"name": "主动脉夹层",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180525185647lt",
+		"isParent": false,
+		"name": "肺隔离症",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528171419lt",
+		"isParent": false,
+		"name": "附见{副脾|肝内低密度影}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528171516lt",
+		"isParent": false,
+		"name": "腋窝淋巴结肿大",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528171538lt",
+		"isParent": false,
+		"name": "心包上隐窝[少量]积液",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528172021lt",
+		"isParent": false,
+		"name": "附见{肾上腺增粗|胆囊结石}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528182101lt",
+		"isParent": false,
+		"name": "[部位]位主动弓，先天发育变异",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528182223lt",
+		"isParent": false,
+		"name": "{肺气肿|小泡性肺气肿|叶间隔旁型肺气肿}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528182254lt",
+		"isParent": false,
+		"name": "附见乳腺内点状钙化灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528182658lt",
+		"isParent": false,
+		"name": "附见肝脏囊性病变",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001180528182734lt",
+		"isParent": false,
+		"name": "永存[部位]腔静脉",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190516111307lt",
+		"isParent": false,
+		"name": "主动脉及冠状动脉部分管壁钙化",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190517171109lt",
+		"isParent": false,
+		"name": "迷走右锁骨下动脉",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190517171856lt",
+		"isParent": false,
+		"name": "纵隔结节样淋巴结",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190517172040lt",
+		"isParent": false,
+		"name": "乳腺结节",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190523142852lt",
+		"isParent": false,
+		"name": "胸膜增厚",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190523150428lt",
+		"isParent": false,
+		"name": "胸膜增厚粘连",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190523151602lt",
+		"isParent": false,
+		"name": "心包积液",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190523151716lt",
+		"isParent": false,
+		"name": "心包膜增厚",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190606162639lt",
+		"isParent": false,
+		"name": "肺脓肿",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190606162826lt",
+		"isParent": false,
+		"name": "肺转移性肿瘤",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190612131804lt",
+		"isParent": false,
+		"name": "食道扩张",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190612132241lt",
+		"isParent": false,
+		"name": "膈肌膨升",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001190625112227lt",
+		"isParent": false,
+		"name": "{右位心|内脏反位}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171055lt",
+		"isParent": false,
+		"name": "考虑胸内甲状腺",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171246lt",
+		"isParent": false,
+		"name": "考虑局限性肺通气不良",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171337lt",
+		"isParent": false,
+		"name": "考虑畸胎瘤可能",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171408lt",
+		"isParent": false,
+		"name": "食道局部管壁增厚",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171456lt",
+		"isParent": false,
+		"name": "胸壁软组织结节",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171558lt",
+		"isParent": false,
+		"name": "乳腺内脂肪瘤",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171655lt",
+		"isParent": false,
+		"name": "[部位]位主动脉弓",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191202171912lt",
+		"isParent": false,
+		"name": "考虑胸腺退化不完全",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191209101442lt",
+		"isParent": false,
+		"name": "肺内钙化灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191209101534lt",
+		"isParent": false,
+		"name": "肺纹理增多",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191209102058lt",
+		"isParent": false,
+		"name": "胸膜钙化",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "000001191219133743lt",
+		"isParent": false,
+		"name": "{肺结节影|磨玻璃肺结节|部分实性肺结节|实性肺结节}",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139200228091957lt",
+		"isParent": false,
+		"name": "考虑感染性病变可能，建议医院询问病史、结合临床症状及实验室检查，进一步综合诊断！",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660352200509120618lt",
+		"isParent": false,
+		"name": "食管裂孔疝",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660352200509120755lt",
+		"isParent": false,
+		"name": "附见胆囊结石",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660352200511093912lt",
+		"isParent": false,
+		"name": "附见肝内钙化灶",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660352200804115108lt",
+		"isParent": false,
+		"name": "两肺弥漫性病变，请结合临床或专科检查协诊明确诊断",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660352200804125634lt",
+		"isParent": false,
+		"name": "肺多发结节灶，请结合临床或专科检查协诊明确诊断",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660409211222160335lt",
+		"isParent": false,
+		"name": "右旋心",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139230129090245lt",
+		"isParent": false,
+		"name": "[部位]肺多发炎症性病变，考虑病毒性肺炎改变可能，请结合临床病史，必要时进一步医院就诊。",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139230129090448lt",
+		"isParent": false,
+		"name": "[部位]肺多发斑片状磨玻璃样改变，考虑病毒性肺炎改变可能，请结合临床病史，必要时进一步医院就诊。",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139230129090730lt",
+		"isParent": false,
+		"name": "[部位]肺多发炎症性病变，考虑病毒性肺炎早期改变可能，请结合临床病史，建议{?}周复查",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139230129090904lt",
+		"isParent": false,
+		"name": "[部位]肺多发炎症性病变，考虑病毒性肺炎进展期改变可能，请结合临床病史，必要时进一步医院就诊。",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139230129091013lt",
+		"isParent": false,
+		"name": "[部位]肺多发炎症性病变，考虑病毒性肺炎重症期改变可能，请结合临床病史，必要时进一步医院就诊。",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "660139230129091216lt",
+		"isParent": false,
+		"name": "[部位]肺多发炎症性病变，{对比前片|不选}考虑病毒性肺炎吸收期改变可能，请结合病史，建议{?}周复查",
+		"open": false,
+		"pid": "part01",
+		"type": "template"
+	},
+	{
+		"id": "part02",
+		"isParent": true,
+		"name": "腹部",
+		"open": false,
+		"pid": "modality0",
+		"type": "part"
+	},
+	{
+		"id": "660119180504144830lt",
+		"isParent": false,
+		"name": "上腹部CT平扫未见明显异常",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504144956lt",
+		"isParent": false,
+		"name": "中下腹CT扫描未见明显异常",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151431lt",
+		"isParent": false,
+		"name": "双肾CT扫描未见明显异常",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660002180516130132lt",
+		"isParent": false,
+		"name": "胆囊结石",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660002180516130810lt",
+		"isParent": false,
+		"name": "肾盂积水",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504145352lt",
+		"isParent": false,
+		"name": "肝内低密度影",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504145447lt",
+		"isParent": false,
+		"name": "肝占位",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504145528lt",
+		"isParent": false,
+		"name": "肝血管瘤",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504145645lt",
+		"isParent": false,
+		"name": "脂肪肝",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504145953lt",
+		"isParent": false,
+		"name": "胆囊炎",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504150328lt",
+		"isParent": false,
+		"name": "慢性胆囊炎、胆囊结石",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504150444lt",
+		"isParent": false,
+		"name": "{肾囊肿|肾脏低密度影}",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504150543lt",
+		"isParent": false,
+		"name": "肝硬化，门脉高压，脾大",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504150742lt",
+		"isParent": false,
+		"name": "肝囊肿",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660002180515174121lt",
+		"isParent": false,
+		"name": "钙化灶",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151103lt",
+		"isParent": false,
+		"name": "急性胰腺炎",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151150lt",
+		"isParent": false,
+		"name": "胆总管结石，致胆管不完全梗阻",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151339lt",
+		"isParent": false,
+		"name": "胆管低位梗阻",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151539lt",
+		"isParent": false,
+		"name": "肾结石",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151632lt",
+		"isParent": false,
+		"name": "肾错构瘤",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504151811lt",
+		"isParent": false,
+		"name": "肾占位",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152303lt",
+		"isParent": false,
+		"name": "肾结核",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660002180516131036lt",
+		"isParent": false,
+		"name": "左上腹占位",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152344lt",
+		"isParent": false,
+		"name": "腹腔占位",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152551lt",
+		"isParent": false,
+		"name": "结肠上段占位性病变，伴机械性肠梗阻",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152709lt",
+		"isParent": false,
+		"name": "十二指肠穿孔",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152746lt",
+		"isParent": false,
+		"name": "十二指肠乳头旁憩室",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152850lt",
+		"isParent": false,
+		"name": "结肠占位",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504152931lt",
+		"isParent": false,
+		"name": "腹水",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504153630lt",
+		"isParent": false,
+		"name": "腹膜后间隙、小肠系膜根部淋巴结肿大",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504153703lt",
+		"isParent": false,
+		"name": "输尿管结石",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162231lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "000001180525185525lt",
+		"isParent": false,
+		"name": "{脾大|脾脏低密度影}",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "000001180525185607lt",
+		"isParent": false,
+		"name": "胆囊切除后",
+		"open": false,
+		"pid": "part02",
+		"type": "template"
+	},
+	{
+		"id": "part03",
+		"isParent": true,
+		"name": "盆腔",
+		"open": false,
+		"pid": "modality0",
+		"type": "part"
+	},
+	{
+		"id": "660119180504153841lt",
+		"isParent": false,
+		"name": "盆腔CT扫描未见明显异常",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154047lt",
+		"isParent": false,
+		"name": "盆腔CT平扫未见明显异常",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504153915lt",
+		"isParent": false,
+		"name": "直肠占位",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154242lt",
+		"isParent": false,
+		"name": "直肠占位",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154309lt",
+		"isParent": false,
+		"name": "直肠癌术后复发 ，邻近筋膜浸润，[部位]髂血管旁淋巴结转移",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154437lt",
+		"isParent": false,
+		"name": "前列腺占位",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154511lt",
+		"isParent": false,
+		"name": "前列腺钙化",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154540lt",
+		"isParent": false,
+		"name": "前列腺增生",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154612lt",
+		"isParent": false,
+		"name": "双侧精囊静脉和精索静脉曲张，伴前列腺和双侧精囊增大",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154735lt",
+		"isParent": false,
+		"name": "子宫占位",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504154827lt",
+		"isParent": false,
+		"name": "膀胱占位",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162156lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "000001190606163010lt",
+		"isParent": false,
+		"name": "盆腔占位",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "000001190822171429lt",
+		"isParent": false,
+		"name": "子宫肌瘤待排",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "000001190822171547lt",
+		"isParent": false,
+		"name": "盆腔积液",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "000001190822171655lt",
+		"isParent": false,
+		"name": "附件囊性病变",
+		"open": false,
+		"pid": "part03",
+		"type": "template"
+	},
+	{
+		"id": "part04",
+		"isParent": true,
+		"name": "骨骼",
+		"open": false,
+		"pid": "modality0",
+		"type": "part"
+	},
+	{
+		"id": "660002180516152447lt",
+		"isParent": false,
+		"name": "寰枢关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155018lt",
+		"isParent": false,
+		"name": "颈椎CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155209lt",
+		"isParent": false,
+		"name": "腰椎CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504160117lt",
+		"isParent": false,
+		"name": "[部位]膝关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504160738lt",
+		"isParent": false,
+		"name": "双髋关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161412lt",
+		"isParent": false,
+		"name": "双骶髂关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161551lt",
+		"isParent": false,
+		"name": "肘关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161733lt",
+		"isParent": false,
+		"name": "踝关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161855lt",
+		"isParent": false,
+		"name": "双侧足部CT未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161938lt",
+		"isParent": false,
+		"name": "腕关节CT平扫未见明显异常",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660118180508121427lt",
+		"isParent": false,
+		"name": "颈椎椎间盘{膨出|突出}，颈椎退行性变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155450lt",
+		"isParent": false,
+		"name": "腰椎间盘{膨出|突出}，腰椎退行性变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155407lt",
+		"isParent": false,
+		"name": "椎体骨质增生",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155642lt",
+		"isParent": false,
+		"name": "{颈椎|腰椎}退行性变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504160030lt",
+		"isParent": false,
+		"name": "{颈椎|腰椎}椎间盘{膨出|突出}",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155721lt",
+		"isParent": false,
+		"name": "椎间盘病变伴变性",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504155829lt",
+		"isParent": false,
+		"name": "脊柱生理曲度改变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504160353lt",
+		"isParent": false,
+		"name": "[部位]膝关节退变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516151107lt",
+		"isParent": false,
+		"name": "骨质疏松",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504160617lt",
+		"isParent": false,
+		"name": "膝关节肿胀，膝关节退形性变、骨质疏松",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161009lt",
+		"isParent": false,
+		"name": "椎体滑脱",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504160914lt",
+		"isParent": false,
+		"name": "附见椎体血管瘤",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161047lt",
+		"isParent": false,
+		"name": "附见骶管囊肿",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161108lt",
+		"isParent": false,
+		"name": "附见脊柱内固定金属影",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161145lt",
+		"isParent": false,
+		"name": "附见L5横突膨大",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161202lt",
+		"isParent": false,
+		"name": "椎体压缩性骨折",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161301lt",
+		"isParent": false,
+		"name": "[部位]股骨头缺血坏死",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161448lt",
+		"isParent": false,
+		"name": "肩关节未见明显骨折征象",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161517lt",
+		"isParent": false,
+		"name": "肩关节退变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516154927lt",
+		"isParent": false,
+		"name": "椎体占位性病变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161634lt",
+		"isParent": false,
+		"name": "肘关节退变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161812lt",
+		"isParent": false,
+		"name": "踝关节退变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516155452lt",
+		"isParent": false,
+		"name": "椎体融合",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516155321lt",
+		"isParent": false,
+		"name": "椎体结核",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516151758lt",
+		"isParent": false,
+		"name": "隐性脊椎裂",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504161958lt",
+		"isParent": false,
+		"name": "关节退行性骨关节病",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516155642lt",
+		"isParent": false,
+		"name": "颈椎术后改变",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516160254lt",
+		"isParent": false,
+		"name": "脊柱侧弯",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516160529lt",
+		"isParent": false,
+		"name": "项韧带钙化",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660002180516160703lt",
+		"isParent": false,
+		"name": "强直性脊柱炎",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "660119180504162033lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "000001190517171405lt",
+		"isParent": false,
+		"name": "椎弓峡部裂",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "000001190517171701lt",
+		"isParent": false,
+		"name": "椎体终板炎",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "000001190528121920lt",
+		"isParent": false,
+		"name": "颈椎曲度变直",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "000001190528122033lt",
+		"isParent": false,
+		"name": "腰椎曲度变直",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "000001190718160342lt",
+		"isParent": false,
+		"name": "椎动脉钙化",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "000001190718160451lt",
+		"isParent": false,
+		"name": "椎基底动脉钙化",
+		"open": false,
+		"pid": "part04",
+		"type": "template"
+	},
+	{
+		"id": "modality1",
+		"isParent": true,
+		"name": "MRI",
+		"open": true,
+		"pid": "0",
+		"type": "modality"
+	},
+	{
+		"id": "part10",
+		"isParent": true,
+		"name": "头部",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180504114423lt",
+		"isParent": false,
+		"name": "头颅MRI平扫未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180515172337lt",
+		"isParent": false,
+		"name": "鼻窦MR平扫未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504114914lt",
+		"isParent": false,
+		"name": "头颅MRI平扫示老年性脑改变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132438lt",
+		"isParent": false,
+		"name": "头颅MRI未见明显异常，附见：副鼻窦炎症",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504120727lt",
+		"isParent": false,
+		"name": "脑部MRA未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504125156lt",
+		"isParent": false,
+		"name": "垂体MRI平扫未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132035lt",
+		"isParent": false,
+		"name": "鼻咽部未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132701lt",
+		"isParent": false,
+		"name": "双侧内耳MR平扫未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132802lt",
+		"isParent": false,
+		"name": "双侧眼眶MR平扫未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132848lt",
+		"isParent": false,
+		"name": "内听道MRI未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504133737lt",
+		"isParent": false,
+		"name": "双侧眼球MR扫描未见异常病变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180515172059lt",
+		"isParent": false,
+		"name": "脑小{梗塞|缺血}灶",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516135616lt",
+		"isParent": false,
+		"name": "脑内{少许|多发}缺血灶伴脑白质变性",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504114959lt",
+		"isParent": false,
+		"name": "脑白质变性",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504115100lt",
+		"isParent": false,
+		"name": "脑白质疏松",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504172939lt",
+		"isParent": false,
+		"name": "急性脑梗塞",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504173005lt",
+		"isParent": false,
+		"name": "脑出血",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504172139lt",
+		"isParent": false,
+		"name": "多发性脑{腔隙灶|缺血灶}",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516163416lt",
+		"isParent": false,
+		"name": "脑白质少量点状稍高信号",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504125427lt",
+		"isParent": false,
+		"name": "部分空蝶鞍",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504125458lt",
+		"isParent": false,
+		"name": "空蝶鞍",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516133807lt",
+		"isParent": false,
+		"name": "副鼻窦黏膜下囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132525lt",
+		"isParent": false,
+		"name": "副鼻窦及鼻腔慢性炎症伴息肉形成",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504115600lt",
+		"isParent": false,
+		"name": "脑膜瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504120541lt",
+		"isParent": false,
+		"name": "颅内占位性病变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504125100lt",
+		"isParent": false,
+		"name": "颅内脂肪沉积，余颅脑MRI未见明显异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504125319lt",
+		"isParent": false,
+		"name": "脑积水",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504130223lt",
+		"isParent": false,
+		"name": "海绵状血管瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504131752lt",
+		"isParent": false,
+		"name": "垂体瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504131901lt",
+		"isParent": false,
+		"name": "垂体微腺瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504130747lt",
+		"isParent": false,
+		"name": "脑动静脉畸形",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504120945lt",
+		"isParent": false,
+		"name": "颅内占位，结合病史考虑转移瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504131634lt",
+		"isParent": false,
+		"name": "大枕大池",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504124945lt",
+		"isParent": false,
+		"name": "脑内炎症性病变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516164126lt",
+		"isParent": false,
+		"name": "透明隔腔形成，考虑发育变异",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504131014lt",
+		"isParent": false,
+		"name": "脑透明隔缺如",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132303lt",
+		"isParent": false,
+		"name": "脉络膜裂囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516140105lt",
+		"isParent": false,
+		"name": "头皮下脂肪瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516164755lt",
+		"isParent": false,
+		"name": "甲状腺异常信号灶",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132931lt",
+		"isParent": false,
+		"name": "听神经瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504133100lt",
+		"isParent": false,
+		"name": "眼球后占位性病变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504133340lt",
+		"isParent": false,
+		"name": "良性肿瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516140221lt",
+		"isParent": false,
+		"name": "小脑扁桃体下疝改变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504120834lt",
+		"isParent": false,
+		"name": "松果体区占位",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162034lt",
+		"isParent": false,
+		"name": "脑膜瘤术后",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162207lt",
+		"isParent": false,
+		"name": "胶质瘤可能大并伴有出血",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162252lt",
+		"isParent": false,
+		"name": "鞍区肿瘤，考虑颅咽管瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162346lt",
+		"isParent": false,
+		"name": "双侧眼肌明显增厚，符合甲亢性眼病",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162425lt",
+		"isParent": false,
+		"name": "囊实性占位病变，考虑良性病变，表皮样囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162545lt",
+		"isParent": false,
+		"name": "眼球视网膜剥离",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504162615lt",
+		"isParent": false,
+		"name": "眼球壁占位性病变，考虑为黑色素瘤伴出血",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504132205lt",
+		"isParent": false,
+		"name": "会厌占位",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660002180516163625lt",
+		"isParent": false,
+		"name": "鼻咽后顶壁组织增厚",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171659lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180525185847lt",
+		"isParent": false,
+		"name": "中耳乳突炎",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180525190244lt",
+		"isParent": false,
+		"name": "垂体异常信号影",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180525190304lt",
+		"isParent": false,
+		"name": "咽后壁异常信号",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180525190505lt",
+		"isParent": false,
+		"name": "头颅MRV未见异常",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180528170132lt",
+		"isParent": false,
+		"name": "鼻咽顶后壁潴留囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180528181705lt",
+		"isParent": false,
+		"name": "脉络丛囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001180528182539lt",
+		"isParent": false,
+		"name": "{全|部分}鼻窦炎症",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190516112322lt",
+		"isParent": false,
+		"name": "松果体囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190517171015lt",
+		"isParent": false,
+		"name": "脑软化灶",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190527163334lt",
+		"isParent": false,
+		"name": "蛛网膜囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190528121516lt",
+		"isParent": false,
+		"name": "副鼻窦占位性病变",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190628113122lt",
+		"isParent": false,
+		"name": "{急性|亚急性|慢性}硬膜下血肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190718155505lt",
+		"isParent": false,
+		"name": "{脑萎缩|老年脑改变}",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190718155746lt",
+		"isParent": false,
+		"name": "垂体上缘膨隆",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001190819102225lt",
+		"isParent": false,
+		"name": "鞍内异常信号影，考虑垂体Rathke囊肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001191202172120lt",
+		"isParent": false,
+		"name": "考虑畸胎瘤可能",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "000001191202173221lt",
+		"isParent": false,
+		"name": "室管膜瘤",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660352200509120907lt",
+		"isParent": false,
+		"name": "[部位]侧脑室黄色肉芽肿",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660352200511093440lt",
+		"isParent": false,
+		"name": "脑腔隙灶，扩大V-R间隙可能",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660409211213171559lt",
+		"isParent": false,
+		"name": "脑血流灌注未见明显减低",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660409211213172525lt",
+		"isParent": false,
+		"name": "[部位]侧小脑血流灌注减低",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660409211213173048lt",
+		"isParent": false,
+		"name": "[部位]侧顶叶脑血流灌注减低",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660409211214090023lt",
+		"isParent": false,
+		"name": "[部位]侧枕叶脑血流灌注减低",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660409211214090706lt",
+		"isParent": false,
+		"name": "[部位]侧颞叶脑血流灌注减低",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660409211214091251lt",
+		"isParent": false,
+		"name": "[部位]侧额叶脑血流灌注减低",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "660139221125093615lt",
+		"isParent": false,
+		"name": "血管源性脑白质高信号，Fazekas {I|II|III}级",
+		"open": false,
+		"pid": "part10",
+		"type": "template"
+	},
+	{
+		"id": "part11",
+		"isParent": true,
+		"name": "骨胳",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180504134043lt",
+		"isParent": false,
+		"name": "颈椎MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504135120lt",
+		"isParent": false,
+		"name": "腰椎MR检查未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142155lt",
+		"isParent": false,
+		"name": "骶尾椎MRI平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140814lt",
+		"isParent": false,
+		"name": "双髋关节MR检查未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141833lt",
+		"isParent": false,
+		"name": "跟腱MRI未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142216lt",
+		"isParent": false,
+		"name": "骨盆MRI检查未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140244lt",
+		"isParent": false,
+		"name": "腰骶椎、椎管及脊髓圆锥及终丝马尾MRI平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140338lt",
+		"isParent": false,
+		"name": "[部位]膝关节MR检查未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140426lt",
+		"isParent": false,
+		"name": "[部位]肩关节MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140543lt",
+		"isParent": false,
+		"name": "[部位]踝关节MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140732lt",
+		"isParent": false,
+		"name": "[部位]足MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141010lt",
+		"isParent": false,
+		"name": "[部位]肘关节MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141039lt",
+		"isParent": false,
+		"name": "[部位]腕关节MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141123lt",
+		"isParent": false,
+		"name": "[部位]手MR平扫未见明显异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141611lt",
+		"isParent": false,
+		"name": "髋关节及邻近结构未见明显异常改变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141302lt",
+		"isParent": false,
+		"name": "关节及邻近结构未见明显异常改变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660002180516153702lt",
+		"isParent": false,
+		"name": "{颈椎|腰椎}退行性变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660002180516154132lt",
+		"isParent": false,
+		"name": "{颈椎|腰椎}椎间盘{膨出|突出}",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504134352lt",
+		"isParent": false,
+		"name": "颈椎间盘{膨出|突出},颈椎退行性变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504135350lt",
+		"isParent": false,
+		"name": "腰椎间盘{膨出|突出}，腰椎退行性变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171358lt",
+		"isParent": false,
+		"name": "膝关节骨性关节炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142718lt",
+		"isParent": false,
+		"name": "半月板退行性改变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171420lt",
+		"isParent": false,
+		"name": "退行性骨关节炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504135025lt",
+		"isParent": false,
+		"name": "脊柱生理曲度改变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504134940lt",
+		"isParent": false,
+		"name": "骨质增生",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504135815lt",
+		"isParent": false,
+		"name": "压缩性骨折",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141206lt",
+		"isParent": false,
+		"name": "骨折",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165334lt",
+		"isParent": false,
+		"name": "[部位]骨质破坏，考虑骨转移瘤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504135528lt",
+		"isParent": false,
+		"name": "第[?]椎体水平髓内占位",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504140144lt",
+		"isParent": false,
+		"name": "椎间隙结核",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141341lt",
+		"isParent": false,
+		"name": "椎体水平{硬膜下髓外|硬膜外}占位",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660002180516165209lt",
+		"isParent": false,
+		"name": "椎体血管瘤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660002180516165447lt",
+		"isParent": false,
+		"name": "椎体终板炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141710lt",
+		"isParent": false,
+		"name": "股骨头信号异常伴关节囊内少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141751lt",
+		"isParent": false,
+		"name": "跟后滑囊炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504141908lt",
+		"isParent": false,
+		"name": "跟腱断裂",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142022lt",
+		"isParent": false,
+		"name": "{骶髂关节炎|强直性脊柱炎}",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142048lt",
+		"isParent": false,
+		"name": "骶骨占位",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504135743lt",
+		"isParent": false,
+		"name": "脊髓挫伤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171602lt",
+		"isParent": false,
+		"name": "类风湿性关节炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142408lt",
+		"isParent": false,
+		"name": "胫骨远端骨内腱鞘囊肿",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142505lt",
+		"isParent": false,
+		"name": "考虑脂肪瘤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142638lt",
+		"isParent": false,
+		"name": "膝关节腔积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165023lt",
+		"isParent": false,
+		"name": "[部位]肘关节退行性变；[部位]肘关节积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142742lt",
+		"isParent": false,
+		"name": "股骨头缺血性坏死",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504142845lt",
+		"isParent": false,
+		"name": "[部位]膝关节慢性滑膜炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504163217lt",
+		"isParent": false,
+		"name": "第[?]椎体层面脊髓信号异常，考虑脊髓空洞症",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504163532lt",
+		"isParent": false,
+		"name": "第[?]椎体层面脊髓异常信号，结合病史考虑急性脊髓炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504163727lt",
+		"isParent": false,
+		"name": "膝关节半月板撕裂损伤可能，请结合病史；[部位]交叉韧带撕裂损伤可能，请结合病史；膝关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504163843lt",
+		"isParent": false,
+		"name": "[部位]跟腱撕裂；[部位]踝关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504164232lt",
+		"isParent": false,
+		"name": "[部位]踝关节软组织肿胀，外侧距腓前韧带损伤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504164311lt",
+		"isParent": false,
+		"name": "[部位]踝关节退行性骨关节炎，距骨软骨下退变性滑液囊肿；[部位]踝关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504164608lt",
+		"isParent": false,
+		"name": "双髋关节退行性变；双髋关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504164755lt",
+		"isParent": false,
+		"name": "双股骨头缺血坏死，[部位]侧较明显；双髋关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504164917lt",
+		"isParent": false,
+		"name": "[部位]侧伸肌总腱退变，肱骨外髁骨软骨退变，[部位]肘关节积液，符合网球肘改变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165123lt",
+		"isParent": false,
+		"name": "[部位]腕舟骨陈旧骨折伴断端缺血坏死；[部位]腕关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165436lt",
+		"isParent": false,
+		"name": "[部位]干骺端占位性病变，考虑骨肉瘤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165535lt",
+		"isParent": false,
+		"name": "脊髓圆锥囊性占位",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165740lt",
+		"isParent": false,
+		"name": "肩周炎，伴冈上肌腱炎，肩锁关节退行性变",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165838lt",
+		"isParent": false,
+		"name": "膝关节退行性变，髌股关节炎，半月板变性，关节腔积液，腘窝囊肿",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165924lt",
+		"isParent": false,
+		"name": "腘窝良性、囊性占位",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504170004lt",
+		"isParent": false,
+		"name": "关节慢性滑膜炎，[部位]膝腘窝软组织内囊肿",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504170051lt",
+		"isParent": false,
+		"name": "撞击综合症，冈上肌腱周围炎，肩峰下滑囊炎",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171457lt",
+		"isParent": false,
+		"name": "肩袖损伤",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504165603lt",
+		"isParent": false,
+		"name": "股骨头缺血性坏死，伴髋关节少量积液",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171628lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "000001180528181753lt",
+		"isParent": false,
+		"name": "骶管小囊肿",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "000001190517170346lt",
+		"isParent": false,
+		"name": "双侧骶髂关节MRI平扫未见异常",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "000001190527160029lt",
+		"isParent": false,
+		"name": "椎管狭窄",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "000001190528121632lt",
+		"isParent": false,
+		"name": "颈椎曲度变直",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "000001190528121708lt",
+		"isParent": false,
+		"name": "腰椎曲度变直",
+		"open": false,
+		"pid": "part11",
+		"type": "template"
+	},
+	{
+		"id": "part12",
+		"isParent": true,
+		"name": "颈部",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180504143127lt",
+		"isParent": false,
+		"name": "颈动脉及椎动脉MRA未见明显异常",
+		"open": false,
+		"pid": "part12",
+		"type": "template"
+	},
+	{
+		"id": "660118180504143157lt",
+		"isParent": false,
+		"name": "颈部MRI检查未见肿大淋巴结",
+		"open": false,
+		"pid": "part12",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171723lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part12",
+		"type": "template"
+	},
+	{
+		"id": "000001180525190336lt",
+		"isParent": false,
+		"name": "双侧甲状腺MRI平扫未见异常",
+		"open": false,
+		"pid": "part12",
+		"type": "template"
+	},
+	{
+		"id": "part13",
+		"isParent": true,
+		"name": "腹部",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180504153727lt",
+		"isParent": false,
+		"name": "上腹部MR平扫未见明显异常",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155306lt",
+		"isParent": false,
+		"name": "上中腹MRI未见明显异常",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155449lt",
+		"isParent": false,
+		"name": "双肾、输尿管、膀胱MRI未见明显异常",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153930lt",
+		"isParent": false,
+		"name": "肝内占位",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154012lt",
+		"isParent": false,
+		"name": "肝内占位，考虑血管瘤",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153839lt",
+		"isParent": false,
+		"name": "脂肪肝",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153806lt",
+		"isParent": false,
+		"name": "肝囊肿",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154428lt",
+		"isParent": false,
+		"name": "肝局灶性结节增生（FNH）",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154722lt",
+		"isParent": false,
+		"name": "肝硬化、腹水、门脉高压",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154746lt",
+		"isParent": false,
+		"name": "慢性胆囊炎、胆囊结石",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154822lt",
+		"isParent": false,
+		"name": "轻度胰腺炎",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154859lt",
+		"isParent": false,
+		"name": "胰{头|体|尾}占位性病变",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154936lt",
+		"isParent": false,
+		"name": "脾脏占位",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155033lt",
+		"isParent": false,
+		"name": "肾脏异常信号影，考虑肾囊肿",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155130lt",
+		"isParent": false,
+		"name": "肾脏占位",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155200lt",
+		"isParent": false,
+		"name": "肾上腺腺瘤",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155231lt",
+		"isParent": false,
+		"name": "肾结石",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160457lt",
+		"isParent": false,
+		"name": "[部位]肾错构瘤",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155348lt",
+		"isParent": false,
+		"name": "直肠恶性肿瘤",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154341lt",
+		"isParent": false,
+		"name": "肝脏小结节影，考虑肝癌",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161543lt",
+		"isParent": false,
+		"name": "输尿管{结石|占位}，泌尿系梗阻",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155754lt",
+		"isParent": false,
+		"name": "肝内胆管扩张，梗阻平面位于肝门处，疑胆管占位；慢性胆囊炎，胆囊多发结石",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160019lt",
+		"isParent": false,
+		"name": "肝总管结石，胆总管数枚结石，伴肝内胆管扩张，胆总管明显扩张，胰管扩张",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160232lt",
+		"isParent": false,
+		"name": "肝脏占位；肝硬化、脾大",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154306lt",
+		"isParent": false,
+		"name": "多囊肾",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160426lt",
+		"isParent": false,
+		"name": "胰腺体部实质性占位，考虑胰腺恶性病变可能性大，伴其远侧的胰管扩张",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504154540lt",
+		"isParent": false,
+		"name": "肝脏多发占位；双肾多发囊肿",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160627lt",
+		"isParent": false,
+		"name": "十二指肠降段乳头旁憩室，压迫邻近的胆总管下段",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160701lt",
+		"isParent": false,
+		"name": "[部位]肾盂输尿管交界处结石，[部位]肾盂、盏积水",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160802lt",
+		"isParent": false,
+		"name": "慢性胰腺炎(胰头及钩突部)",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504160906lt",
+		"isParent": false,
+		"name": "多囊肾；肝脏多发囊肿",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161013lt",
+		"isParent": false,
+		"name": "腹腔感染性病变",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161059lt",
+		"isParent": false,
+		"name": "胸主动脉下段及腹主动脉迂曲，未见夹层动脉瘤征象",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161129lt",
+		"isParent": false,
+		"name": "腹膜后广泛淋巴结肿大{可选考虑淋巴瘤|可不选}",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161157lt",
+		"isParent": false,
+		"name": "腹膜后广泛结节状病灶，结合病史多考虑为神经纤维瘤，不排除淋巴瘤",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161453lt",
+		"isParent": false,
+		"name": "融合肾，为先天性变异",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504155602lt",
+		"isParent": false,
+		"name": "急性胆囊炎，累及邻近的结构（见上述）",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504161607lt",
+		"isParent": false,
+		"name": "中上腹腔内肿块性病灶，考虑胃肠道肿瘤",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171802lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "000001180525190431lt",
+		"isParent": false,
+		"name": "双肾上腺CT平扫未见异常",
+		"open": false,
+		"pid": "part13",
+		"type": "template"
+	},
+	{
+		"id": "part14",
+		"isParent": true,
+		"name": "盆腔",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180504144238lt",
+		"isParent": false,
+		"name": "盆腔MRI平扫未见明显异常",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504144457lt",
+		"isParent": false,
+		"name": "盆腔MRI平扫未见明显异常",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504144712lt",
+		"isParent": false,
+		"name": "膀胱占位",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504144752lt",
+		"isParent": false,
+		"name": "子宫及附件切除术后",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504145447lt",
+		"isParent": false,
+		"name": "前列腺增生",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504145816lt",
+		"isParent": false,
+		"name": "睾丸肿瘤",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504145931lt",
+		"isParent": false,
+		"name": "前列腺占位",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504150353lt",
+		"isParent": false,
+		"name": "子宫肌瘤",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504151036lt",
+		"isParent": false,
+		"name": "盆腔内肿块性病灶，结合病史考虑直肠癌复发",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152050lt",
+		"isParent": false,
+		"name": "前列腺增生，伴慢性膀胱炎",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152258lt",
+		"isParent": false,
+		"name": "前列腺肥大可能性大，不完全排除前列腺癌",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152339lt",
+		"isParent": false,
+		"name": "盆腔内附件区囊性病变",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152421lt",
+		"isParent": false,
+		"name": "综上所述，符合临床双侧腹股沟隐睾诊断",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152526lt",
+		"isParent": false,
+		"name": "畸胎瘤",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152602lt",
+		"isParent": false,
+		"name": "盆腔积液；盆腔内各脏器及周围软组织MR平扫未见异常",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152711lt",
+		"isParent": false,
+		"name": "两侧输卵管积水",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152828lt",
+		"isParent": false,
+		"name": "盆腔多发囊实性病灶，结合病史考虑为卵巢癌复发",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504152937lt",
+		"isParent": false,
+		"name": "睾丸鞘膜积液",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171830lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part14",
+		"type": "template"
+	},
+	{
+		"id": "part15",
+		"isParent": true,
+		"name": "胸部",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180504153100lt",
+		"isParent": false,
+		"name": "两侧乳腺MRI未见明显异常",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153145lt",
+		"isParent": false,
+		"name": "乳房肿块",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153213lt",
+		"isParent": false,
+		"name": "乳房结节影，考虑为乳房纤维瘤；双乳增生性改变",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153300lt",
+		"isParent": false,
+		"name": "双侧乳腺小叶增生改变",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153400lt",
+		"isParent": false,
+		"name": "[部位]乳房异常信号影，考虑为感染性病变",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153452lt",
+		"isParent": false,
+		"name": "双乳隆胸术后改变",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504153522lt",
+		"isParent": false,
+		"name": "双乳隆胸术后改变，{左|右}乳外下胸壁前充填物移位，双乳多发充填物外渗，以{左|右}乳外上为最明显",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "660118180504171852lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part15",
+		"type": "template"
+	},
+	{
+		"id": "part16",
+		"isParent": true,
+		"name": "心脏/血管",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180509125015lt",
+		"isParent": false,
+		"name": "冠状动脉MRA未见明显异常",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509125243lt",
+		"isParent": false,
+		"name": "心脏形态、心肌舒缩功能、瓣膜活动未见明显异常",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509125821lt",
+		"isParent": false,
+		"name": "左室心功能未见异常",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509125902lt",
+		"isParent": false,
+		"name": "椎动脉变异改变",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130225lt",
+		"isParent": false,
+		"name": "颈部MRA提示动脉硬化改变",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130344lt",
+		"isParent": false,
+		"name": "左室射血分数减低",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130514lt",
+		"isParent": false,
+		"name": "左室射血分数减低",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130608lt",
+		"isParent": false,
+		"name": "考虑心肌桥",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130726lt",
+		"isParent": false,
+		"name": "考虑血管变异",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130828lt",
+		"isParent": false,
+		"name": "{左|右|双}侧大脑{前|中|后}动脉局限性信号减弱，管腔变细",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509130932lt",
+		"isParent": false,
+		"name": "颈内动脉局限性信号减弱，管腔变细",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509131017lt",
+		"isParent": false,
+		"name": "基底动脉局限性信号减弱，管腔变细",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509131108lt",
+		"isParent": false,
+		"name": "动脉瘤",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509131511lt",
+		"isParent": false,
+		"name": "{左|右}心房增大",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509131608lt",
+		"isParent": false,
+		"name": "{左|右}心房增大",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509131809lt",
+		"isParent": false,
+		"name": "椎动脉纤细",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660118180509193018lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001190527163459lt",
+		"isParent": false,
+		"name": "冠脉MRA提示动脉硬化改变",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001190527163704lt",
+		"isParent": false,
+		"name": "二尖瓣关闭不全",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001190527163827lt",
+		"isParent": false,
+		"name": "二尖瓣狭窄",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001190918101704lt",
+		"isParent": false,
+		"name": "血管正常变异",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001200106125904lt",
+		"isParent": false,
+		"name": "脑部MRA动脉硬化",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001200106130006lt",
+		"isParent": false,
+		"name": "大脑[部位]动脉A1段较对侧较细，考虑发育所致",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "000001200106130056lt",
+		"isParent": false,
+		"name": "血管稍狭窄",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "660352200914101237lt",
+		"isParent": false,
+		"name": "详见纸质报告",
+		"open": false,
+		"pid": "part16",
+		"type": "template"
+	},
+	{
+		"id": "part17",
+		"isParent": true,
+		"name": "类PET",
+		"open": false,
+		"pid": "modality1",
+		"type": "part"
+	},
+	{
+		"id": "660118180509131843lt",
+		"isParent": false,
+		"name": "全身类PET未见明显异常",
+		"open": false,
+		"pid": "part17",
+		"type": "template"
+	},
+	{
+		"id": "660118180509132128lt",
+		"isParent": false,
+		"name": "全身类PET提示多处弥散受限征象",
+		"open": false,
+		"pid": "part17",
+		"type": "template"
+	},
+	{
+		"id": "660118180514104652lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part17",
+		"type": "template"
+	},
+	{
+		"id": "modality2",
+		"isParent": true,
+		"name": "MG",
+		"open": true,
+		"pid": "0",
+		"type": "modality"
+	},
+	{
+		"id": "part20",
+		"isParent": true,
+		"name": "盈谷专用",
+		"open": false,
+		"pid": "modality2",
+		"type": "part"
+	},
+	{
+		"id": "000001190919123452lt",
+		"isParent": false,
+		"name": "[部位]侧腋下淋巴结",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125010lt",
+		"isParent": false,
+		"name": "[部位]腋部软组织未见明显异常",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123723lt",
+		"isParent": false,
+		"name": "[部位]腋部软组织内见等密度付乳腺影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124415lt",
+		"isParent": false,
+		"name": "[部位]侧腋下软组织内可见副乳影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124703lt",
+		"isParent": false,
+		"name": "两侧乳房{对称|不对称}，[部位]乳头无凹陷，[部位]侧皮肤{无|局部}增厚",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123105lt",
+		"isParent": false,
+		"name": "右乳肿块",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123202lt",
+		"isParent": false,
+		"name": "肿块伴钙化",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123222lt",
+		"isParent": false,
+		"name": "乳房肿块影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123248lt",
+		"isParent": false,
+		"name": "左乳肿块",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125202lt",
+		"isParent": false,
+		"name": "乳房块影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125250lt",
+		"isParent": false,
+		"name": "乳房钙化点难以定性",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125346lt",
+		"isParent": false,
+		"name": "乳房簇状分布为恶性改变可能",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123734lt",
+		"isParent": false,
+		"name": "乳房淋巴结",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123413lt",
+		"isParent": false,
+		"name": "乳房内腺体不对称",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123842lt",
+		"isParent": false,
+		"name": "[部位]乳腺体致密型，分布{不|不选}均匀、对称",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123931lt",
+		"isParent": false,
+		"name": "[部位]乳腺体多量型",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124054lt",
+		"isParent": false,
+		"name": "[部位]乳腺体少量型",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123633lt",
+		"isParent": false,
+		"name": "乳腺退化不全",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124111lt",
+		"isParent": false,
+		"name": "[部位]乳腺体脂肪型",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124128lt",
+		"isParent": false,
+		"name": "[部位]方为主的腺体呈{团状|片状|串珠状}分布",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124215lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺小叶增生{,以[部位]侧为甚|不选}",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124930lt",
+		"isParent": false,
+		"name": "[部位]乳腺退化型分布对称",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919113644lt",
+		"isParent": false,
+		"name": "[部位]乳为致密型、[部位]腺体型",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919115439lt",
+		"isParent": false,
+		"name": "[部位]乳为致密型、[部位]腺体型",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919115639lt",
+		"isParent": false,
+		"name": "致密型乳房",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919115834lt",
+		"isParent": false,
+		"name": "萎缩型乳房",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919115921lt",
+		"isParent": false,
+		"name": "过渡型乳房",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919115933lt",
+		"isParent": false,
+		"name": "[部位]乳房为致密型，乳房内有多量腺体组织，片内未见明显异常。",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125029lt",
+		"isParent": false,
+		"name": "[部位]乳房[部位]腺体已手术切除",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125051lt",
+		"isParent": false,
+		"name": "[部位]乳房局部腺体结构紊乱、扭曲",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122024lt",
+		"isParent": false,
+		"name": "[部位]侧乳房钙化点,估计为{恶|良}性钙化。",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122738lt",
+		"isParent": false,
+		"name": "[部位]乳房见钙化影，为良性改变",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122810lt",
+		"isParent": false,
+		"name": "乳房钙化影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919125121lt",
+		"isParent": false,
+		"name": "乳房钙化为良性改变",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920085616lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺{中央区|及[部位]侧乳腺|不选}[部位]象限内小结节影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920085743lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺{中央区|不选}钙化灶",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920085833lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺腺体分布欠均匀，[部位]侧腋窝数个小淋巴结显示",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920154111lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺囊肿",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190922173346lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺结节影{伴钙化|不选}",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920170855lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺囊性增生",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919121954lt",
+		"isParent": false,
+		"name": "[部位]侧乳房为萎缩型",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190912101645lt",
+		"isParent": false,
+		"name": "[部位]侧乳头凹陷",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122139lt",
+		"isParent": false,
+		"name": "BI-RADS 0级",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122220lt",
+		"isParent": false,
+		"name": "不除外恶性可能（IV）",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122245lt",
+		"isParent": false,
+		"name": "临床怀疑病变，钼靶未见明确病变，建议结合其他检查。",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122550lt",
+		"isParent": false,
+		"name": "钼靶可疑病变，无法完全评估",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122709lt",
+		"isParent": false,
+		"name": "乳腺未见明确异常，考虑BI-RADS I级",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919122941lt",
+		"isParent": false,
+		"name": "乳房腺体结构扭曲",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123131lt",
+		"isParent": false,
+		"name": "结构扭曲",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123357lt",
+		"isParent": false,
+		"name": "[部位]乳房癌，手术后改变",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123525lt",
+		"isParent": false,
+		"name": "[部位]侧乳房[部位]象限有影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123552lt",
+		"isParent": false,
+		"name": "在同侧乳房斜轴位片的相应部位未见到上述块影。",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919123645lt",
+		"isParent": false,
+		"name": "[部位]乳腺纤维囊性变",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124317lt",
+		"isParent": false,
+		"name": "腋下软组织内可见副乳影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124348lt",
+		"isParent": false,
+		"name": "双乳腺钼靶摄片未见明显异常：BI-RADS评分1类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124530lt",
+		"isParent": false,
+		"name": "BI-RADS评分2类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124604lt",
+		"isParent": false,
+		"name": "BI-RADS评分1类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124727lt",
+		"isParent": false,
+		"name": "BI-RADS评分4-5类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124734lt",
+		"isParent": false,
+		"name": "BI-RADS评分2类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124822lt",
+		"isParent": false,
+		"name": "BI-RADS评分2类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919124913lt",
+		"isParent": false,
+		"name": "BI-RADS评分1类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908102849lt",
+		"isParent": false,
+		"name": "[部位]乳团片状高密度影，拟BI-RADS 0类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908102953lt",
+		"isParent": false,
+		"name": "[部位]乳未见明显异常，拟BI-RADS 1类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908103017lt",
+		"isParent": false,
+		"name": "[部位]乳乳腺病  拟BI-RADS 2类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908103108lt",
+		"isParent": false,
+		"name": "[部位]乳乳腺病，部分结节样改变  拟BI-RADS 3类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908103134lt",
+		"isParent": false,
+		"name": "[部位]乳乳腺病，[部位]乳局灶性非对称性改变  拟BI-RADS 3类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104037lt",
+		"isParent": false,
+		"name": "[部位]乳乳腺病，[部位]乳成簇钙化  拟BI-RADS 3类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104254lt",
+		"isParent": false,
+		"name": "[部位]乳乳腺病，[部位]乳保乳术后  拟BI-RADS 3类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104445lt",
+		"isParent": false,
+		"name": "[部位]乳乳腺病，[部位]乳局部结构扭曲  拟BI-RADS 3类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104521lt",
+		"isParent": false,
+		"name": "[部位]乳结节，拟BI-RADS 4A类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104549lt",
+		"isParent": false,
+		"name": "[部位]乳成簇钙化，拟BI-RADS 4A类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104612lt",
+		"isParent": false,
+		"name": "[部位]乳结构扭曲，拟BI-RADS 4A类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104641lt",
+		"isParent": false,
+		"name": "[部位]乳结节，拟BI-RADS 4B类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104705lt",
+		"isParent": false,
+		"name": "[部位]乳结节，拟BI-RADS 4C类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104739lt",
+		"isParent": false,
+		"name": "[部位]乳肿块，拟BI-RADS 5类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190908104802lt",
+		"isParent": false,
+		"name": "[部位]乳肿块，拟BI-RADS 6类",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190923085414lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺小片状致密影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190919085339lt",
+		"isParent": false,
+		"name": "[部位]侧乳晕增厚",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920142935lt",
+		"isParent": false,
+		"name": "[部位]侧乳腺[部位]密度影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920154816lt",
+		"isParent": false,
+		"name": "双侧乳腺增生；（BI-RADS  2类）",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920155004lt",
+		"isParent": false,
+		"name": "腋下淋巴结",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920155105lt",
+		"isParent": false,
+		"name": "乳腺钙化灶",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920180506lt",
+		"isParent": false,
+		"name": "[部位]侧乳头内高密度影",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "000001190920101141lt",
+		"isParent": false,
+		"name": "[部位]侧乳头钙化灶",
+		"open": false,
+		"pid": "part20",
+		"type": "template"
+	},
+	{
+		"id": "modality3",
+		"isParent": true,
+		"name": "普放(CR,DR,DX)",
+		"open": true,
+		"pid": "0",
+		"type": "modality"
+	},
+	{
+		"id": "part30",
+		"isParent": true,
+		"name": "心",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001141106151019",
+		"isParent": false,
+		"name": "主动脉弓增宽",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001150214093347",
+		"isParent": false,
+		"name": "[部位]心缘钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153629",
+		"isParent": false,
+		"name": "主动脉弓壁局部钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141107104603",
+		"isParent": false,
+		"name": "主动脉弓迂曲伴钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141107105517",
+		"isParent": false,
+		"name": "左心影增大性质待查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142530",
+		"isParent": false,
+		"name": "主动脉结突出",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152147",
+		"isParent": false,
+		"name": "主动脉增宽性质待查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001150408092035",
+		"isParent": false,
+		"name": "主动脉钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145329",
+		"isParent": false,
+		"name": "主动脉结突出并钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141107105742",
+		"isParent": false,
+		"name": "横位心",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141108100732",
+		"isParent": false,
+		"name": "心脏瓣膜置换术后",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141108100926",
+		"isParent": false,
+		"name": "心脏起搏器植入术后",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106123951",
+		"isParent": false,
+		"name": "右位心",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150044",
+		"isParent": false,
+		"name": "心影增大性质待查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151048",
+		"isParent": false,
+		"name": "主动脉迂曲延长",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152215",
+		"isParent": false,
+		"name": "心脏术后改变",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152446",
+		"isParent": false,
+		"name": "二尖瓣型心影",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153344",
+		"isParent": false,
+		"name": "主动脉型心影",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144041",
+		"isParent": false,
+		"name": "[部位]位主动脉弓纵隔淋巴结钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152520",
+		"isParent": false,
+		"name": "主动脉弓壁线条状钙化",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141107105320",
+		"isParent": false,
+		"name": "主动脉结突出，心影横径增大",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142851",
+		"isParent": false,
+		"name": "心影增大性质待查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143111",
+		"isParent": false,
+		"name": "心影增大性质待查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143157",
+		"isParent": false,
+		"name": "[部位]位主动脉弓",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152113",
+		"isParent": false,
+		"name": "右位主动脉弓",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001141231105232",
+		"isParent": false,
+		"name": "肺动脉段膨隆",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001150427135137",
+		"isParent": false,
+		"name": "风湿性心脏病",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001150427135216",
+		"isParent": false,
+		"name": "高血压型心脏病",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001150427135423",
+		"isParent": false,
+		"name": "扩张性心肌病",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001151111083937",
+		"isParent": false,
+		"name": "不除外室壁瘤可能，请结合临床。",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001160407091856",
+		"isParent": false,
+		"name": "考虑心衰，请结合临床详查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001160418184643",
+		"isParent": false,
+		"name": "考虑先天性心脏病(室间隔缺损可能性大)",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001160510173747",
+		"isParent": false,
+		"name": "考虑：先天性心脏病（房缺可能性大）",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001160729161228lt",
+		"isParent": false,
+		"name": "心胸比例大于1/2",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001180314162019lt",
+		"isParent": false,
+		"name": "心影增大，请结合临床。",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "000001191202165222lt",
+		"isParent": false,
+		"name": "冠状动脉支架植入术后",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "660352200427111137lt",
+		"isParent": false,
+		"name": "建议进一步检查",
+		"open": false,
+		"pid": "part30",
+		"type": "template"
+	},
+	{
+		"id": "part31",
+		"isParent": true,
+		"name": "胸椎",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001141106142350",
+		"isParent": false,
+		"name": "胸椎生理曲度变直",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142558",
+		"isParent": false,
+		"name": "胸椎{轻度|重度}侧弯",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162358",
+		"isParent": false,
+		"name": "胸椎体{轻度|不选}骨质增生。",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162549",
+		"isParent": false,
+		"name": "胸椎骨质增生部分骨桥形成",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162258",
+		"isParent": false,
+		"name": "胸椎呈S状侧弯",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162201",
+		"isParent": false,
+		"name": "胸[?]椎体楔形变。",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141108102813",
+		"isParent": false,
+		"name": "胸椎术后改变",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162324",
+		"isParent": false,
+		"name": "胸椎向[部位]侧弯曲",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142141",
+		"isParent": false,
+		"name": "胸椎呈S形侧突",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142434",
+		"isParent": false,
+		"name": "胸椎第[?]椎体楔形改变",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001150918160332",
+		"isParent": false,
+		"name": "强直性胸椎脊椎炎",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142058",
+		"isParent": false,
+		"name": "胸椎退行性变",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142232",
+		"isParent": false,
+		"name": "胸椎骨质未见明显异常改变",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162508",
+		"isParent": false,
+		"name": "胸椎体骨质增生部分骨赘形成。",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162627",
+		"isParent": false,
+		"name": "胸{[?]|[?]-[?]}椎体{骨质破坏|骨质密度不均|骨质缺损|密度增高|骨质稀疏|骨质囊样改变}。",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001150323100124",
+		"isParent": false,
+		"name": "T ( [?] )胸椎骨质增生",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "000001150610093427",
+		"isParent": false,
+		"name": "胸椎骨质病变可能",
+		"open": false,
+		"pid": "part31",
+		"type": "template"
+	},
+	{
+		"id": "part32",
+		"isParent": true,
+		"name": "肺",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001160509074056",
+		"isParent": false,
+		"name": "纵隔气肿",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001170712101427lt",
+		"isParent": false,
+		"name": "详见纸质报告.",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143254",
+		"isParent": false,
+		"name": "心、肺、膈未见明显异常",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144005",
+		"isParent": false,
+		"name": "肺 膈未见明显异常",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141108081346",
+		"isParent": false,
+		"name": "心、余肺、膈未见异常",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150905101404",
+		"isParent": false,
+		"name": "肺门钙化灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106123336",
+		"isParent": false,
+		"name": "心、膈未见明显异常",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142916",
+		"isParent": false,
+		"name": "[部位]肺纹理增重",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141124075032",
+		"isParent": false,
+		"name": "心、肺未见异常",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145209",
+		"isParent": false,
+		"name": "[部位]肺纹理增多",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141108101953",
+		"isParent": false,
+		"name": "[部位]肋骨陈旧性骨折",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142121",
+		"isParent": false,
+		"name": "慢性支气管炎",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142453",
+		"isParent": false,
+		"name": "[部位]肺内硬结灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151746",
+		"isParent": false,
+		"name": "[部位]肺结核({钙化|硬结钙化}）",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150423093135",
+		"isParent": false,
+		"name": "[部位]肺继发性结核可能大，建议专科检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106124545",
+		"isParent": false,
+		"name": "[部位]肺内钙化灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145128",
+		"isParent": false,
+		"name": "[部位]肺纹理增多",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151051",
+		"isParent": false,
+		"name": "[部位]肺内结节影性质待定",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106123859",
+		"isParent": false,
+		"name": "[部位]肺内纤维灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142737",
+		"isParent": false,
+		"name": "[部位]肺结节影性质待定",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141110080117",
+		"isParent": false,
+		"name": "[部位]肺纤维钙化灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141518",
+		"isParent": false,
+		"name": "[部位]肺野内密度增高影性质待查",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142052",
+		"isParent": false,
+		"name": "[部位]侧胸膜增厚{粘连|伴局部钙化|不选}",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153434",
+		"isParent": false,
+		"name": "[部位]肺门影{增大|增浓|肿块|钙化}",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144836",
+		"isParent": false,
+		"name": "[部位]侧乳房术后改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151714",
+		"isParent": false,
+		"name": "[部位]肺片状模糊影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142001",
+		"isParent": false,
+		"name": "[部位]肺{斑片状|斑点状|部分条索状}模糊影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152002",
+		"isParent": false,
+		"name": "[部位]肺小片状边缘模糊阴影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143718",
+		"isParent": false,
+		"name": "[部位]肺{部分|全切|不选}术后改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150123",
+		"isParent": false,
+		"name": "[部位]肺斑片影及纤维条索影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106165236",
+		"isParent": false,
+		"name": "[部位]第[?]肋骨良性病变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151142",
+		"isParent": false,
+		"name": "[部位]肺门肿块影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144157",
+		"isParent": false,
+		"name": "[部位]肺野球形病灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145216",
+		"isParent": false,
+		"name": "[部位]肺门钙化灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150130083754",
+		"isParent": false,
+		"name": "胸片内伪影难以分辨",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141617",
+		"isParent": false,
+		"name": "[部位]侧{少量|中量|大量|不选}胸腔积液",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001180321170206lt",
+		"isParent": false,
+		"name": "肺部结节",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141224201338",
+		"isParent": false,
+		"name": "[部位]侧肋膈角变钝",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150753",
+		"isParent": false,
+		"name": "[部位]纵隔肿块影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151406",
+		"isParent": false,
+		"name": "[部位]纵隔增宽",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150130093442",
+		"isParent": false,
+		"name": "[部位]纵隔高密度影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151932",
+		"isParent": false,
+		"name": "[部位]肺内炎性病变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150847",
+		"isParent": false,
+		"name": "[部位]纵隔肿块影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151902",
+		"isParent": false,
+		"name": "[部位]肺炎症可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150927",
+		"isParent": false,
+		"name": "[部位]纵隔淋巴结肿大",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152614",
+		"isParent": false,
+		"name": "[部位]肺内团块影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106135628",
+		"isParent": false,
+		"name": "[部位]肺野大片状模糊影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141205",
+		"isParent": false,
+		"name": "肺部阴影、空洞待查",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143205",
+		"isParent": false,
+		"name": "[部位]肺斑块状影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151403",
+		"isParent": false,
+		"name": "[部位]肺不张",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141306",
+		"isParent": false,
+		"name": "肺内圆形密度增高影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141514",
+		"isParent": false,
+		"name": "[部位]纵隔占位性病变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151622",
+		"isParent": false,
+		"name": "[部位]肺门影增大",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151803",
+		"isParent": false,
+		"name": "[部位]支气管扩张",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151846",
+		"isParent": false,
+		"name": "[部位]肺纹理粗乱",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151919",
+		"isParent": false,
+		"name": "[部位]肺大泡",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152152",
+		"isParent": false,
+		"name": "[部位]肺钙化灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143426",
+		"isParent": false,
+		"name": "胸内甲状腺可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152231",
+		"isParent": false,
+		"name": "[部位]肺肿块影性质待定",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150427141020",
+		"isParent": false,
+		"name": "胸廓畸形",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150427141102",
+		"isParent": false,
+		"name": "[部位]（气胸/液气胸）",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144809",
+		"isParent": false,
+		"name": "胸部术后改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150706110353",
+		"isParent": false,
+		"name": "[部位]肺囊肿",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153054",
+		"isParent": false,
+		"name": "[部位]肺门结构紊乱",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153534",
+		"isParent": false,
+		"name": "[部位]肺不张",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153130",
+		"isParent": false,
+		"name": "老年肺",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141148",
+		"isParent": false,
+		"name": "强直性脊柱炎可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141256",
+		"isParent": false,
+		"name": "[部位]第[?]肋骨先天性变异",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142231",
+		"isParent": false,
+		"name": "支气管炎改变可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142422",
+		"isParent": false,
+		"name": "[部位]肺内陈旧钙化灶",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142630",
+		"isParent": false,
+		"name": "慢支、肺气肿",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143407",
+		"isParent": false,
+		"name": "[部位]肺环形密度增高影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143606",
+		"isParent": false,
+		"name": "膈疝",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143908",
+		"isParent": false,
+		"name": "肺{斑片状|斑点状|条索状}模糊影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144232",
+		"isParent": false,
+		"name": "[部位]侧第[?]肋骨陈旧性骨折",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144310",
+		"isParent": false,
+		"name": "慢支并肺气肿合并肺心病",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144552",
+		"isParent": false,
+		"name": "支气管哮喘",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144637",
+		"isParent": false,
+		"name": "疑肺先天发育不良",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144716",
+		"isParent": false,
+		"name": "[部位]肺{大片|较}致密影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150702164401",
+		"isParent": false,
+		"name": "[部位]锁骨术后改变。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145248",
+		"isParent": false,
+		"name": "支气管扩张待除外",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150153",
+		"isParent": false,
+		"name": "[部位]肺不张可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150930",
+		"isParent": false,
+		"name": "[部位]侧气胸",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151013",
+		"isParent": false,
+		"name": "[部位]肺斑片模糊影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150130083541",
+		"isParent": false,
+		"name": "毁损肺",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151153",
+		"isParent": false,
+		"name": "[部位]侧颈肋",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151820",
+		"isParent": false,
+		"name": "[部位]侧叶间胸膜{增厚|积液}",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143532",
+		"isParent": false,
+		"name": "胸骨呈术后改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141107120109",
+		"isParent": false,
+		"name": "[部位]肋骨畸形",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141107120211",
+		"isParent": false,
+		"name": "肺压缩",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141108102247",
+		"isParent": false,
+		"name": "[部位]锁骨术后改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141108102446",
+		"isParent": false,
+		"name": "[部位]肩关节术后改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141110081351",
+		"isParent": false,
+		"name": "[部位]侧肝胆区见{金属夹影|类圆形密度增高影|不规则形密度增高影}",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152044",
+		"isParent": false,
+		"name": "[部位]肺炎吸收期改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141112",
+		"isParent": false,
+		"name": "[部位]肺动脉增宽",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141724",
+		"isParent": false,
+		"name": "肺间质病变可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150427145539",
+		"isParent": false,
+		"name": "主动脉内支架置入术后",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150611114917",
+		"isParent": false,
+		"name": "肋骨骨质病变可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150611115230",
+		"isParent": false,
+		"name": "慢性支气管炎伴[部位]肺感染",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150616152021",
+		"isParent": false,
+		"name": "结合临床，不除外肺纤维化。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150625150230",
+		"isParent": false,
+		"name": "食道术后改变?请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150901085956",
+		"isParent": false,
+		"name": "食管术后（胸腔胃），请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150901144013",
+		"isParent": false,
+		"name": "肺结核球",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150911121018",
+		"isParent": false,
+		"name": "考虑慢性支气管炎合并支气管扩张",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150911121143",
+		"isParent": false,
+		"name": "考虑慢性支气管炎合并肺气肿",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150916144555",
+		"isParent": false,
+		"name": "[部位]胸腔包裹性积液",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150922140857",
+		"isParent": false,
+		"name": "考虑内生软骨瘤可能性大",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "660117151021104722",
+		"isParent": false,
+		"name": "不除外食管裂孔疝，请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151030132356",
+		"isParent": false,
+		"name": "肺门旁高密度影",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151104163230",
+		"isParent": false,
+		"name": "心包积液",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151105100325",
+		"isParent": false,
+		"name": "[部位]肺野斑片影，请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151116165800",
+		"isParent": false,
+		"name": "[部位]侧胸膜粘连",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151116170114",
+		"isParent": false,
+		"name": "[部位]肺纹理紊乱",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151202160410",
+		"isParent": false,
+		"name": "[部位]少许肺尖胸膜增厚",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151202160440",
+		"isParent": false,
+		"name": "[部位]盘状肺不张考虑",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151202160622",
+		"isParent": false,
+		"name": "[部位]第[?]肋骨骨岛",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151208123208",
+		"isParent": false,
+		"name": "[部位]肺占位性病变，建议进一步检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001151208123739",
+		"isParent": false,
+		"name": "符合[部位]肺叶切除术后影像表现，请结合临床",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160104150125",
+		"isParent": false,
+		"name": "考虑为胸腺增大，请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160114150413",
+		"isParent": false,
+		"name": "陈旧性肺结核",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160114150441",
+		"isParent": false,
+		"name": "肺间质改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160126092244",
+		"isParent": false,
+		"name": "不除外{升|降}主动脉弓部动脉瘤，建议进一步检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160126092540",
+		"isParent": false,
+		"name": "考虑为{升|降}主动脉弓部夹层动脉瘤，建议进一步检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160126092625",
+		"isParent": false,
+		"name": "[部位]侧乳腺内结节，请完善相关检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160223131230",
+		"isParent": false,
+		"name": "胸椎侧凸",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160308114349",
+		"isParent": false,
+		"name": "[部位]侧乳腺内结节，请完善相关检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160308114852",
+		"isParent": false,
+		"name": "[部位]肺门结构紊乱，请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160310134631",
+		"isParent": false,
+		"name": "胸椎[?]椎体变扁，请结合临床",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160323112510",
+		"isParent": false,
+		"name": "[部位]肺间质改变并肺内感染",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160323113228",
+		"isParent": false,
+		"name": "[部位]肺纹理稀少，请结合临床。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160323114118",
+		"isParent": false,
+		"name": "[部位]侧胸腔包裹性积液",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160323114653",
+		"isParent": false,
+		"name": "[部位]肺小叶中心型肺气肿",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160411094700",
+		"isParent": false,
+		"name": "[部位]侧陈旧性包裹性积液伴胸膜肥厚",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160414140843",
+		"isParent": false,
+		"name": "[部位]肺多发囊性改变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160420170945",
+		"isParent": false,
+		"name": "[部位]侧第[?]肋骨缺如",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160714083655lt",
+		"isParent": false,
+		"name": "[部位]肺粟粒样阴影，请结合临床，除外粟粒性结核。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001160901155724lt",
+		"isParent": false,
+		"name": "[部位]肺转移瘤",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001161207163736lt",
+		"isParent": false,
+		"name": "考虑右肺中叶综合征可能大，建议进一步检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001170711124044lt",
+		"isParent": false,
+		"name": "[部位]肺奇叶副裂",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150313153949",
+		"isParent": false,
+		"name": "[部位]侧肺陈旧性病变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150313154056",
+		"isParent": false,
+		"name": "[部位]侧陈旧性胸膜病变",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001180312162333lt",
+		"isParent": false,
+		"name": "双肺不均匀分布小结节影，请结合临床，除外尘肺。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "660183180419132428lt",
+		"isParent": false,
+		"name": "肺脓肿可能性大，请结合临床，进一步检查。",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001191202165606lt",
+		"isParent": false,
+		"name": "放射性肺炎",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "660352200804125059lt",
+		"isParent": false,
+		"name": "两肺弥漫性病变，请结合临床或专科检查协诊明确诊断",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "660409211117184743lt",
+		"isParent": false,
+		"name": "肺部占位",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001141110103107",
+		"isParent": false,
+		"name": "右上纵膈影增宽拟血管影可能",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "000001150619091039",
+		"isParent": false,
+		"name": "建议进一步检查",
+		"open": false,
+		"pid": "part32",
+		"type": "template"
+	},
+	{
+		"id": "part33",
+		"isParent": true,
+		"name": "膈",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001170712101441lt",
+		"isParent": false,
+		"name": "结论见上",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164106",
+		"isParent": false,
+		"name": "[部位]侧横膈局限性隆起",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164139",
+		"isParent": false,
+		"name": "[部位]侧肋膈角变钝",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164011",
+		"isParent": false,
+		"name": "[部位]侧横膈低平",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164051",
+		"isParent": false,
+		"name": "[部位]侧横膈低于十一后肋水平",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164326",
+		"isParent": false,
+		"name": "{左|右}侧胸膜增厚，局部钙化",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164206",
+		"isParent": false,
+		"name": "[部位]侧{乳腺癌术后|心脏术后}",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164304",
+		"isParent": false,
+		"name": "{两|左|右}膈下游离气体{少量|中量|大量}。",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162805",
+		"isParent": false,
+		"name": "[部位]侧膈局限性膨出",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162913",
+		"isParent": false,
+		"name": "[部位]侧膈呈波浪状改变",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164200",
+		"isParent": false,
+		"name": "[部位]侧胸腔术后改变",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001150130085401",
+		"isParent": false,
+		"name": "[部位]膈下间位结肠",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001150617155818",
+		"isParent": false,
+		"name": "纵膈向[部位]侧移位",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106151450",
+		"isParent": false,
+		"name": "[部位]侧膈胸膜粘连",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106153240",
+		"isParent": false,
+		"name": "[部位]膈抬高",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150821",
+		"isParent": false,
+		"name": "[部位]横膈胸膜粘连",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001160310085748",
+		"isParent": false,
+		"name": "纵膈内钙化灶",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "000001161008092018lt",
+		"isParent": false,
+		"name": "[部位]侧膈肌弥漫性膨升",
+		"open": false,
+		"pid": "part33",
+		"type": "template"
+	},
+	{
+		"id": "part34",
+		"isParent": true,
+		"name": "颈椎",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001141223130331",
+		"isParent": false,
+		"name": "颈椎[?]纤维环钙化",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001160718191627lt",
+		"isParent": false,
+		"name": "颈椎正位片未见异常",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001160718191648lt",
+		"isParent": false,
+		"name": "颈椎侧位片未见异常",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001170712101452lt",
+		"isParent": false,
+		"name": "详见纸质报告.",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142830",
+		"isParent": false,
+		"name": "颈椎{上段|中段|下段}曲度变直",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143721",
+		"isParent": false,
+		"name": "颈椎曲度后弓",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144115",
+		"isParent": false,
+		"name": "颈椎未见明显异常",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150313150338",
+		"isParent": false,
+		"name": "颈椎双斜位未见明显异常",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001160313100451",
+		"isParent": false,
+		"name": "颈椎生理曲度变直",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142905",
+		"isParent": false,
+		"name": "颈椎骨质增生",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144747",
+		"isParent": false,
+		"name": "颈椎间隙狭窄",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150130085650",
+		"isParent": false,
+		"name": "颈椎椎体轻度骨质增生",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143121",
+		"isParent": false,
+		"name": "颈椎{前纵韧带|项韧带}部分钙化",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144628",
+		"isParent": false,
+		"name": "颈椎退行性变",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150408091225",
+		"isParent": false,
+		"name": "颈椎[部位]纵韧带钙化",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142533",
+		"isParent": false,
+		"name": "颈椎[部位]侧弯",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143617",
+		"isParent": false,
+		"name": "项韧带{部分|不选}钙化",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141124083555",
+		"isParent": false,
+		"name": "余颈椎椎体骨质未见异常",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142740",
+		"isParent": false,
+		"name": "[?]椎间孔狭窄",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141107110052",
+		"isParent": false,
+		"name": "颈椎先天性分节不全",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141107110322",
+		"isParent": false,
+		"name": "颈椎椎体轻度向前移位",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141107110802",
+		"isParent": false,
+		"name": "颈椎钩突关节增生",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141107110415",
+		"isParent": false,
+		"name": "颈椎竹节样改变",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141108102717",
+		"isParent": false,
+		"name": "颈椎术后改变",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150617115949",
+		"isParent": false,
+		"name": "第[?]椎体棘上韧带钙化",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150625144551",
+		"isParent": false,
+		"name": "{部分|不选}骨桥形成",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150625144700",
+		"isParent": false,
+		"name": "颈椎骨质疏松",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150130085730",
+		"isParent": false,
+		"name": "颈椎Schmorl氏结节",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150706092959",
+		"isParent": false,
+		"name": "颈后软组织钙化灶",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150130085829",
+		"isParent": false,
+		"name": "颈椎棘突并联畸形",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150728101128",
+		"isParent": false,
+		"name": "颈椎呈S形弯曲畸形",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001151013101010",
+		"isParent": false,
+		"name": "颈椎滑脱",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141107105948",
+		"isParent": false,
+		"name": "椎体前缘永存骨骺",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142659",
+		"isParent": false,
+		"name": "颈椎第[?]陈旧性骨折",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143750",
+		"isParent": false,
+		"name": "颈椎椎间隙消失",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143825",
+		"isParent": false,
+		"name": "斜颈",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143922",
+		"isParent": false,
+		"name": "颈椎病",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144004",
+		"isParent": false,
+		"name": "颈椎融合",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150130090030",
+		"isParent": false,
+		"name": "颈椎椎体分节不全",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144207",
+		"isParent": false,
+		"name": "颈椎棘突陈旧性骨折",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144248",
+		"isParent": false,
+		"name": "颈椎骨质未见明显异常",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144432",
+		"isParent": false,
+		"name": "棘突永存骨骺",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144539",
+		"isParent": false,
+		"name": "颈椎先天性发育畸形",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144720",
+		"isParent": false,
+		"name": "颈椎不稳",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144910",
+		"isParent": false,
+		"name": "强直性颈椎脊椎炎",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150117110034",
+		"isParent": false,
+		"name": "颈椎间隙狭窄",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150610093055",
+		"isParent": false,
+		"name": "颈椎骨质病变可能",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001150901111608",
+		"isParent": false,
+		"name": "颈[?]椎体压缩改变",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001151216084648",
+		"isParent": false,
+		"name": "颈椎间隙内示密度增高影",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001160301091038",
+		"isParent": false,
+		"name": "颈椎（[?]-[?]）椎体变扁",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001160322165005",
+		"isParent": false,
+		"name": "[?]-[?]椎体轮廓显示不清",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001160518171658",
+		"isParent": false,
+		"name": "后纵韧带骨化症",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001161214144852lt",
+		"isParent": false,
+		"name": "环枕融合",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001170829140427lt",
+		"isParent": false,
+		"name": "颈椎反弓",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001180312142807lt",
+		"isParent": false,
+		"name": "颈椎骨质增生",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144841",
+		"isParent": false,
+		"name": "本人因特殊情况自愿放弃",
+		"open": false,
+		"pid": "part34",
+		"type": "template"
+	},
+	{
+		"id": "part35",
+		"isParent": true,
+		"name": "腰椎",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001141106145946",
+		"isParent": false,
+		"name": "腰椎骨质未见明显异常",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001170712101517lt",
+		"isParent": false,
+		"name": "详见纸质报告.",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142440",
+		"isParent": false,
+		"name": "腰椎生理曲度变直",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164432",
+		"isParent": false,
+		"name": "腰椎椎体{轻度|不选}{骨质增生|部分骨赘形成|部分骨桥形成}。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145545",
+		"isParent": false,
+		"name": "腰椎轻度骨质增生",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145627",
+		"isParent": false,
+		"name": "腰椎骨质增生",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164744",
+		"isParent": false,
+		"name": "腰5-骶1椎间隙变窄",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150130094106",
+		"isParent": false,
+		"name": "腰椎[?]-[?]椎间隙狭窄",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164357",
+		"isParent": false,
+		"name": "腰椎向{左|右|S型}侧弯",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150057",
+		"isParent": false,
+		"name": "腰椎椎体{轻度|中度|重度}移位",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150130090909",
+		"isParent": false,
+		"name": "腰椎椎体不稳",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145506",
+		"isParent": false,
+		"name": "腰椎前纵韧带钙化",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145723",
+		"isParent": false,
+		"name": "腰椎第[?]陈旧性骨折",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164720",
+		"isParent": false,
+		"name": "腰{[?]|[?]-[?]}椎体轻度楔形改变。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150121094005",
+		"isParent": false,
+		"name": "腰[?]椎体楔形改变。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145700",
+		"isParent": false,
+		"name": "腰椎未见异常",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106140940",
+		"isParent": false,
+		"name": "先天性隐性骶椎裂",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164105",
+		"isParent": false,
+		"name": "第(5)腰椎骶化。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164621",
+		"isParent": false,
+		"name": "腰[?]椎体永存骨骺",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164701",
+		"isParent": false,
+		"name": "腰椎椎体前缘见腹主动脉局部钙化影",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141108102619",
+		"isParent": false,
+		"name": "腰椎术后改变",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142120",
+		"isParent": false,
+		"name": "腰第[?]椎体压缩性骨折",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150127",
+		"isParent": false,
+		"name": "腰椎骶化",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164142",
+		"isParent": false,
+		"name": "第(1)骶椎腰化。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164208",
+		"isParent": false,
+		"name": "第(1)骶椎椎弓裂。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145842",
+		"isParent": false,
+		"name": "腰椎隐裂",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150020",
+		"isParent": false,
+		"name": "腰椎先天变异",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164300",
+		"isParent": false,
+		"name": "隐性骶椎裂。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164824",
+		"isParent": false,
+		"name": "腰椎体骨质破坏",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164952",
+		"isParent": false,
+		"name": "腰{[?]|[?]-[?]}椎体骨质破坏",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164229",
+		"isParent": false,
+		"name": "腰椎侧位片：第{[?]|[?]-[?]}腰椎椎体{上|下}缘似见Schmorl结节，",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164802",
+		"isParent": false,
+		"name": "腰{[?]|[?]-[?]}椎体{上|下}缘Schmorl氏结节形成。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106165011",
+		"isParent": false,
+		"name": "腰椎椎体手术后改变{内固定中|不选}",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145805",
+		"isParent": false,
+		"name": "强直性腰椎脊椎炎",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141715",
+		"isParent": false,
+		"name": "腰椎间盘病变可能",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141855",
+		"isParent": false,
+		"name": "腰椎侧突",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142031",
+		"isParent": false,
+		"name": "腰椎椎间隙消失",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141312",
+		"isParent": false,
+		"name": "第[?]腰椎椎体内高密度影",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106141520",
+		"isParent": false,
+		"name": "第[?]腰椎椎体内低密度影",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106152518",
+		"isParent": false,
+		"name": "[部位]肾结石",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164933",
+		"isParent": false,
+		"name": "腰椎椎体呈竹节状改变。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106165036",
+		"isParent": false,
+		"name": "腰{[?]|[?]-[?]}椎体{骨质密度减低,|骨质密度增高,|骨质缺损|骨质栅栏状改变|骨质囊性改变}",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145906",
+		"isParent": false,
+		"name": "腰椎骨质未见明显异常",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150804105620",
+		"isParent": false,
+		"name": "腰椎骨质疏松",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001151202155853",
+		"isParent": false,
+		"name": "骶椎先天性隐裂伴游离棘突/杵状棘突",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001160114150247",
+		"isParent": false,
+		"name": "腰椎椎管狭窄",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150130091002",
+		"isParent": false,
+		"name": "骶椎Schmorl氏结节",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142243",
+		"isParent": false,
+		"name": "腰椎退行性变",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162433",
+		"isParent": false,
+		"name": "腰椎退行性变",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106163914",
+		"isParent": false,
+		"name": "L(4-5),L(5)/s1椎间盘病变。",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001141106164550",
+		"isParent": false,
+		"name": "腰(4、5)椎体不稳",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001160114150316",
+		"isParent": false,
+		"name": "腰椎骨质增生退变",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150323095956",
+		"isParent": false,
+		"name": "腰[?]椎体滑脱",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150506142028",
+		"isParent": false,
+		"name": "尾骨骨折伴移位",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150610093207",
+		"isParent": false,
+		"name": "腰椎骨质病变可能",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001160718191853lt",
+		"isParent": false,
+		"name": "胸椎[?]-腰椎[?]椎间隙狭窄",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "660134161018145307lt",
+		"isParent": false,
+		"name": "骶尾椎未见明显异常",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001170328154637lt",
+		"isParent": false,
+		"name": "骶骨骨折",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001180312161924lt",
+		"isParent": false,
+		"name": "尾骨脱位",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001191112105127lt",
+		"isParent": false,
+		"name": "椎弓峡部裂",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "000001150407130902",
+		"isParent": false,
+		"name": "本人因特殊情况自愿放弃",
+		"open": false,
+		"pid": "part35",
+		"type": "template"
+	},
+	{
+		"id": "part36",
+		"isParent": true,
+		"name": "其他",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001150130091251",
+		"isParent": false,
+		"name": "头颅见异常密度减低影",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001170712101536lt",
+		"isParent": false,
+		"name": "详见纸质报告.",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150130091225",
+		"isParent": false,
+		"name": "头颅见异常密度增高影",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150323101130",
+		"isParent": false,
+		"name": "[部位]侧肩胛骨陈旧性骨折",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150323101220",
+		"isParent": false,
+		"name": "[部位]侧锁骨陈旧性骨折",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150604105343",
+		"isParent": false,
+		"name": "[部位]侧股骨颈骨折（[部位]端），呈术后改变",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150625145934",
+		"isParent": false,
+		"name": "致密性骨炎可能",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150915131548",
+		"isParent": false,
+		"name": "子宫多发性肌瘤并钙化",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150921135545",
+		"isParent": false,
+		"name": "胸腰段脊柱侧弯",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001150928173231",
+		"isParent": false,
+		"name": "腹主动脉硬化",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151008180812",
+		"isParent": false,
+		"name": "内脏反位",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151008180843",
+		"isParent": false,
+		"name": "骨软骨瘤",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151014120545",
+		"isParent": false,
+		"name": "双距骨外生骨疣",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151202093549",
+		"isParent": false,
+		"name": "[部位]锁骨改变",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151202094020",
+		"isParent": false,
+		"name": "股骨头置换术后所见",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151202155404",
+		"isParent": false,
+		"name": "[部位]侧颈部软组织病变",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151202155600",
+		"isParent": false,
+		"name": "[部位]侧甲状腺病变",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151202155717",
+		"isParent": false,
+		"name": "颅底凹陷征",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001151202160904",
+		"isParent": false,
+		"name": "舌骨囊肿",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001160315093334",
+		"isParent": false,
+		"name": "颅骨骨瘤",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001160315093413",
+		"isParent": false,
+		"name": "肝硬化征象",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001160316172909",
+		"isParent": false,
+		"name": "[部位]侧第[?]-[?]肋骨陈旧性骨折",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001160608131944",
+		"isParent": false,
+		"name": "[部位]侧第[?]肋局部环形透光区",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001170814161749lt",
+		"isParent": false,
+		"name": "[部位]侧股骨颈陈旧性骨折",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001190531165720lt",
+		"isParent": false,
+		"name": "不完全性肠梗阻",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001190604105512lt",
+		"isParent": false,
+		"name": "{高位|低位}{机械性|动力性|血运性}{单纯性|绞窄性}{完全性|不完全性}肠梗阻",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001190618085157lt",
+		"isParent": false,
+		"name": "肠胀气",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001190618085326lt",
+		"isParent": false,
+		"name": "立位腹平片未见明显异常",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001191129140932lt",
+		"isParent": false,
+		"name": "[部位]下颌骨良性骨肿瘤",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001191129141540lt",
+		"isParent": false,
+		"name": "[部位]下颌骨骨质未见异常",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001191129141607lt",
+		"isParent": false,
+		"name": "[部位]下颌骨骨质破坏，性质待定？",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "000001191129141743lt",
+		"isParent": false,
+		"name": "[部位]下颌骨炎性病变",
+		"open": false,
+		"pid": "part36",
+		"type": "template"
+	},
+	{
+		"id": "part37",
+		"isParent": true,
+		"name": "四肢关节",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001160316100732",
+		"isParent": false,
+		"name": "[部位]肱骨骨质未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160629161404lt",
+		"isParent": false,
+		"name": "[部位]侧股骨未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726170158lt",
+		"isParent": false,
+		"name": "[部位]跟骨未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001161021105049lt",
+		"isParent": false,
+		"name": "[部位]足正位未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170712101550lt",
+		"isParent": false,
+		"name": "详见纸质报告.",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001171214140619lt",
+		"isParent": false,
+		"name": "[部位]侧胫腓骨正侧位未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106142645",
+		"isParent": false,
+		"name": "[部位]侧肩锁关节间隙增宽",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143110",
+		"isParent": false,
+		"name": "[部位]侧肩锁关节间隙稍增宽",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143246",
+		"isParent": false,
+		"name": "[部位]肩关节骨质未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143339",
+		"isParent": false,
+		"name": "[部位]肘关节未见明显骨质性改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143526",
+		"isParent": false,
+		"name": "[部位]侧腕关节未见明显骨质性改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106143735",
+		"isParent": false,
+		"name": "[部位]侧膝关节半月板损伤",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144105",
+		"isParent": false,
+		"name": "[部位]侧膝关节骨关节病",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144220",
+		"isParent": false,
+		"name": "[部位]侧膝关节未见明显骨质性改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144527",
+		"isParent": false,
+		"name": "[部位]髋关节退行性关节炎",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144751",
+		"isParent": false,
+		"name": "[部位]髋关节退行性骨关节病变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144853",
+		"isParent": false,
+		"name": "[部位]侧髋关节未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106144946",
+		"isParent": false,
+		"name": "踝关节未见骨性病变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145108",
+		"isParent": false,
+		"name": "[部位]手指骨骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145230",
+		"isParent": false,
+		"name": "[部位]手未见明显骨质性改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145334",
+		"isParent": false,
+		"name": "[部位]侧腕骨低密度影",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145419",
+		"isParent": false,
+		"name": "类风湿性关节炎",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145543",
+		"isParent": false,
+		"name": "[部位]侧腕骨密度增高影",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145708",
+		"isParent": false,
+		"name": "骨盆、髋关节、骶髂未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145820",
+		"isParent": false,
+		"name": "上颌窦含齿囊肿",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106145936",
+		"isParent": false,
+		"name": "慢性上颌窦炎",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150130091044",
+		"isParent": false,
+		"name": "[部位]侧股骨头无菌坏死",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150130091129",
+		"isParent": false,
+		"name": "[部位]侧股骨头无菌坏死",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150015",
+		"isParent": false,
+		"name": "上颌窦炎",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150130091153",
+		"isParent": false,
+		"name": "膝关节软骨瘤",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150103",
+		"isParent": false,
+		"name": "上颌窦粘膜下囊肿",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150155",
+		"isParent": false,
+		"name": "额窦骨瘤",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150229",
+		"isParent": false,
+		"name": "双侧上颌窦、筛窦、额窦未见病变征象",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001141106150312",
+		"isParent": false,
+		"name": "上颌窦癌",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150427141554",
+		"isParent": false,
+		"name": "[部位]膝骨关节退行性改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150427141623",
+		"isParent": false,
+		"name": "[部位]膝关节增生性关节炎",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150427141654",
+		"isParent": false,
+		"name": "佝偻病",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150606111405",
+		"isParent": false,
+		"name": "髌骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150608121633",
+		"isParent": false,
+		"name": "髌骨骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150618141842",
+		"isParent": false,
+		"name": "[部位]胫骨髁间隆突变尖",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150623092901",
+		"isParent": false,
+		"name": "[部位]侧桡骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150626134115",
+		"isParent": false,
+		"name": "[部位]侧膝关节骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150701102719",
+		"isParent": false,
+		"name": "[部位]跟骨骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150814151553",
+		"isParent": false,
+		"name": "[部位侧尺骨茎突陈旧性线形骨折，尚未完全愈合",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150817104209",
+		"isParent": false,
+		"name": "跟骨骨质正常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150817110559",
+		"isParent": false,
+		"name": "[部位]指骨{不选|粉碎性}骨折表现",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150817110658",
+		"isParent": false,
+		"name": "[部位]趾骨{不选|粉碎性}骨折表现",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150817112345",
+		"isParent": false,
+		"name": "[部位]侧肩胛骨骨质改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150817112424",
+		"isParent": false,
+		"name": "[部位]足部韧带钙化征像",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150907130751",
+		"isParent": false,
+		"name": "[部位]侧踝关节陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150907130818",
+		"isParent": false,
+		"name": "[部位]侧髂骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150916144834",
+		"isParent": false,
+		"name": "[部位]侧骨关节病",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001150916153657",
+		"isParent": false,
+		"name": "[部位]侧股骨下端骨折内固定术后改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151008180958",
+		"isParent": false,
+		"name": "盆区改变，建议进一步检查",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151013171312",
+		"isParent": false,
+		"name": "[部位]侧腓骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151019085243",
+		"isParent": false,
+		"name": "[部位]侧蹠骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "660117151026132606",
+		"isParent": false,
+		"name": "退行性骨关节病",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151028143054",
+		"isParent": false,
+		"name": "[部位]侧肱骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151028162944",
+		"isParent": false,
+		"name": "[部位]侧尺桡骨骨折内固定术后",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151116112146",
+		"isParent": false,
+		"name": "[部位]内踝（胫骨远端）外生骨疣（骨软骨瘤）",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151216170043",
+		"isParent": false,
+		"name": "[部位]侧膝关节髁间棘（劳损性）骨折可能",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151216170118",
+		"isParent": false,
+		"name": "[部位]侧膝关节[部位]髁骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151222095926",
+		"isParent": false,
+		"name": "[部位]侧肘关节退行性改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151222100001",
+		"isParent": false,
+		"name": "[部位]侧肘关节骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001151228083518",
+		"isParent": false,
+		"name": "[部位]肱骨骨质改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160114103439",
+		"isParent": false,
+		"name": "[部位]侧跟骨骨刺",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160218092847",
+		"isParent": false,
+		"name": "[部位]侧髋臼外缘轻微骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160218092914",
+		"isParent": false,
+		"name": "[部位]侧股骨颈处见一椭圆致密骨影",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160601165902",
+		"isParent": false,
+		"name": "[部位]胫骨骨质缺损区",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160613171832",
+		"isParent": false,
+		"name": "股骨颈{不选|陈旧性}骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160622082537lt",
+		"isParent": false,
+		"name": "[部位]膝关节置换术后",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160712135136lt",
+		"isParent": false,
+		"name": "[部位]手{拇指|食指|中指|无名指|小拇指|不选}掌指关节半脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160719190058lt",
+		"isParent": false,
+		"name": "[部位]侧桡骨远端{不全性|完全性}骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726170350lt",
+		"isParent": false,
+		"name": "[部位]侧肩关节脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726170418lt",
+		"isParent": false,
+		"name": "[部位]侧膝关节脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726170434lt",
+		"isParent": false,
+		"name": "[部位]侧踝关节脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726170456lt",
+		"isParent": false,
+		"name": "[部位]侧肘关节脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726170536lt",
+		"isParent": false,
+		"name": "[部位]侧髋关节脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160726173137lt",
+		"isParent": false,
+		"name": "[部位]侧腕关节脱位",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160802163505lt",
+		"isParent": false,
+		"name": "[部位]侧肩关节周围炎",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160816095827lt",
+		"isParent": false,
+		"name": "[部位]侧骶髂关节骨质增生",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001160830145829lt",
+		"isParent": false,
+		"name": "[部位]足第[?]跖骨骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170317101651lt",
+		"isParent": false,
+		"name": "[部位]足正斜位未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170317101758lt",
+		"isParent": false,
+		"name": "[部位]足斜位未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170406102034lt",
+		"isParent": false,
+		"name": "[部位]侧髋人工关节置换术后改变",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170414121247lt",
+		"isParent": false,
+		"name": "[部位]膝关节髌上韧带钙化",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170523170713lt",
+		"isParent": false,
+		"name": "[部位]肘关节退行性骨关节病",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001170816162704lt",
+		"isParent": false,
+		"name": "[部位]软组织钙化",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001171010170312lt",
+		"isParent": false,
+		"name": "陈旧胫腓骨骨折内固定术后",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001171030161851lt",
+		"isParent": false,
+		"name": "[部位]踝关节退行性骨关节病",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001171211125149lt",
+		"isParent": false,
+		"name": "[部位]尺桡骨正侧位未见明显异常",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001180827114154lt",
+		"isParent": false,
+		"name": "[部位]侧尺骨{近端|远端}骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001181128101654lt",
+		"isParent": false,
+		"name": "股骨头缺血性坏死",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001190513164159lt",
+		"isParent": false,
+		"name": "[部位]髋骨陈旧性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001190628112948lt",
+		"isParent": false,
+		"name": "[部位]侧{肘关节|桡骨|尺骨}线性骨折",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "000001191120105529lt",
+		"isParent": false,
+		"name": "[部位]跟骨底部骨刺形成",
+		"open": false,
+		"pid": "part37",
+		"type": "template"
+	},
+	{
+		"id": "part38",
+		"isParent": true,
+		"name": "透环",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001150109144721",
+		"isParent": false,
+		"name": "未见节育环",
+		"open": false,
+		"pid": "part38",
+		"type": "template"
+	},
+	{
+		"id": "000001141106162946",
+		"isParent": false,
+		"name": "环形“O”环位于耻骨联合上[?]cm",
+		"open": false,
+		"pid": "part38",
+		"type": "template"
+	},
+	{
+		"id": "000001141106163047",
+		"isParent": false,
+		"name": "环呈{椭圆形|宫形|“T”形|“—”形}，位置在正常范围。",
+		"open": false,
+		"pid": "part38",
+		"type": "template"
+	},
+	{
+		"id": "part39",
+		"isParent": true,
+		"name": "上消化道造影",
+		"open": false,
+		"pid": "modality3",
+		"type": "part"
+	},
+	{
+		"id": "000001170712101605lt",
+		"isParent": false,
+		"name": "详见纸质报告.",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413104232",
+		"isParent": false,
+		"name": "上消化道造影未见异常",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151021155240",
+		"isParent": false,
+		"name": "胃肠道气钡双重造影未见明显异常",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111032",
+		"isParent": false,
+		"name": "{食管|胃|结肠}造影未见异常",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111139",
+		"isParent": false,
+		"name": "食道肿瘤,建议进一步检查",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111212",
+		"isParent": false,
+		"name": "食道憩室",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111244",
+		"isParent": false,
+		"name": "贲门失驰缓症",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111307",
+		"isParent": false,
+		"name": "{急性|慢性|不选}胃炎",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111512",
+		"isParent": false,
+		"name": "胃下垂",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111537",
+		"isParent": false,
+		"name": "十二指肠球部溃疡",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150413111556",
+		"isParent": false,
+		"name": "胃切除术后改变",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150729131636",
+		"isParent": false,
+		"name": "符合{食管|胃}治疗后影像表现",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150814133556",
+		"isParent": false,
+		"name": "食管反流",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150814133644",
+		"isParent": false,
+		"name": "食管炎",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001150825095643",
+		"isParent": false,
+		"name": "胃溃疡",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151021155333",
+		"isParent": false,
+		"name": "胃窦炎",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151021155405",
+		"isParent": false,
+		"name": "胃扭转",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151021155523",
+		"isParent": false,
+		"name": "胃粘膜脱垂",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151023092510",
+		"isParent": false,
+		"name": "胃扩张",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151023092533",
+		"isParent": false,
+		"name": "胃底及十二指肠下段静脉曲张",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151023092604",
+		"isParent": false,
+		"name": "十二指肠憩室",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151023093646",
+		"isParent": false,
+		"name": "十二指肠雍积征",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151023093723",
+		"isParent": false,
+		"name": "{胃占位病变|胃癌|胃窦癌|贲门占位病变|胃底占位病变|贲门癌|胃底癌}",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001151116170243",
+		"isParent": false,
+		"name": "咽炎",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001160315093208",
+		"isParent": false,
+		"name": "食管胃底静脉曲张，请结合临床详查",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	},
+	{
+		"id": "000001160315093249",
+		"isParent": false,
+		"name": "奇静脉曲张，请结合临床详查",
+		"open": false,
+		"pid": "part39",
+		"type": "template"
+	}
+]
